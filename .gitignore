@@ -1,0 +1,7 @@
+security.py
+demofile.html
+app.log
+__pycache__/security.cpython-310.pyc
+__pycache__/functions.cpython-310.pyc
+geckodriver.log
+server.log

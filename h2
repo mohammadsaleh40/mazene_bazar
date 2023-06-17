@@ -1,0 +1,8316 @@
+array(756) {
+  [0]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TBAS0001"
+    ["name"]=>
+    string(45) "ذغال‌سنگ‌ نگین‌ ط‌بس‌"
+    ["symbol"]=>
+    string(8) "کطبس"
+    ["percent"]=>
+    float(0.24135375494071)
+  }
+  [1]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PEIZ0001"
+    ["name"]=>
+    string(32) "صنایع تجهیزات نفت"
+    ["symbol"]=>
+    string(8) "فنفت"
+    ["percent"]=>
+    float(0.063545150501672)
+  }
+  [2]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7FVAP0001"
+    ["name"]=>
+    string(23) "فولاد کاویان"
+    ["symbol"]=>
+    string(8) "فوکا"
+    ["percent"]=>
+    float(0.51198630136986)
+  }
+  [3]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1FAJR0001"
+    ["name"]=>
+    string(37) "فولاد امیرکبیرکاشان"
+    ["symbol"]=>
+    string(6) "فجر"
+    ["percent"]=>
+    float(0.39895519578313)
+  }
+  [4]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BAHN0001"
+    ["name"]=>
+    string(26) "مس‌ شهیدباهنر"
+    ["symbol"]=>
+    string(12) "فباهنر"
+    ["percent"]=>
+    float(0.46741344195519)
+  }
+  [5]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ALTP0001"
+    ["name"]=>
+    string(15) "آلومتک‌"
+    ["symbol"]=>
+    string(10) "فالوم"
+    ["percent"]=>
+    float(-0.035130894884179)
+  }
+  [6]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR3KHMZ0101"
+    ["name"]=>
+    string(53) "هلدینگ صنایع معدنی خاورمیانه"
+    ["symbol"]=>
+    string(12) "میدکوح"
+    ["percent"]=>
+    float(-0.0173125)
+  }
+  [7]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1FAIR0001"
+    ["name"]=>
+    string(34) "فولاد آلیاژی ایران"
+    ["symbol"]=>
+    string(10) "فولاژ"
+    ["percent"]=>
+    float(0.46408308491201)
+  }
+  [8]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7FAHP0001"
+    ["name"]=>
+    string(31) "نورد و لوله اهواز"
+    ["symbol"]=>
+    string(12) "فاهواز"
+    ["percent"]=>
+    float(0.57947822713607)
+  }
+  [9]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SORB0001"
+    ["name"]=>
+    string(44) "ملی‌ سرب‌وروی‌ ایران‌"
+    ["symbol"]=>
+    string(8) "فسرب"
+    ["percent"]=>
+    float(0.88514976542764)
+  }
+  [10]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ALMR0001"
+    ["name"]=>
+    string(14) "آلومراد"
+    ["symbol"]=>
+    string(10) "فمراد"
+    ["percent"]=>
+    float(0.33353311357507)
+  }
+  [11]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3KZGZ0001"
+    ["name"]=>
+    string(47) "معدنی کیمیای زنجان گستران"
+    ["symbol"]=>
+    string(10) "کیمیا"
+    ["percent"]=>
+    float(0.19889957440805)
+  }
+  [12]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ZAGZ0001"
+    ["name"]=>
+    string(26) "صنعت روی زنگان"
+    ["symbol"]=>
+    string(10) "زنگان"
+    ["percent"]=>
+    float(0.48287644332731)
+  }
+  [13]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO5MSCS0001"
+    ["name"]=>
+    string(32) "ماداکتو استیل کرد"
+    ["symbol"]=>
+    string(8) "فماک"
+    ["percent"]=>
+    float(1.4478527607362)
+  }
+  [14]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7FAFP0001"
+    ["name"]=>
+    string(32) "فولاد افزا سپاهان"
+    ["symbol"]=>
+    string(10) "فافزا"
+    ["percent"]=>
+    float(0.069261506585763)
+  }
+  [15]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NALM0001"
+    ["name"]=>
+    string(30) "نورد آلومینیوم‌"
+    ["symbol"]=>
+    string(10) "فنوال"
+    ["percent"]=>
+    float(0.3190993522739)
+  }
+  [16]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7LSDP0001"
+    ["name"]=>
+    string(56) "لوله‌وتجهیزات‌ سدید - ورشکسته"
+    ["symbol"]=>
+    string(10) "فسدید"
+    ["percent"]=>
+    float(0.2161746814369)
+  }
+  [17]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NGFO0001"
+    ["name"]=>
+    string(39) "نوردوقطعات‌ فولادی‌"
+    ["symbol"]=>
+    string(10) "فنورد"
+    ["percent"]=>
+    float(0.23678192151801)
+  }
+  [18]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SPTA0001"
+    ["name"]=>
+    string(10) "سپنتا"
+    ["symbol"]=>
+    string(10) "فپنتا"
+    ["percent"]=>
+    float(0.17903485955913)
+  }
+  [19]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD4931"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8076"
+    ["percent"]=>
+    float(1.8421052631579)
+  }
+  [20]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD6051"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8082"
+    ["percent"]=>
+    float(2.030303030303)
+  }
+  [21]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1FRIS0001"
+    ["name"]=>
+    string(33) "فروسیلیس‌ ایران‌"
+    ["symbol"]=>
+    string(8) "فروس"
+    ["percent"]=>
+    float(0.16900147124672)
+  }
+  [22]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1LMIR0001"
+    ["name"]=>
+    string(50) "لوله‌وماشین‌سازی‌ایران‌"
+    ["symbol"]=>
+    string(10) "فلوله"
+    ["percent"]=>
+    float(0.44186046511628)
+  }
+  [23]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD6111"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8088"
+    ["percent"]=>
+    float(0.7910447761194)
+  }
+  [24]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3FOHZ0001"
+    ["name"]=>
+    string(34) "فولاد هرمزگان جنوب"
+    ["symbol"]=>
+    string(8) "هرمز"
+    ["percent"]=>
+    float(0.36850649350649)
+  }
+  [25]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1OMID0001"
+    ["name"]=>
+    string(32) "تامین سرمایه امید"
+    ["symbol"]=>
+    string(8) "امید"
+    ["percent"]=>
+    float(0.83095238095238)
+  }
+  [26]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1LTOS0001"
+    ["name"]=>
+    string(49) "تامین سرمایه لوتوس پارسیان"
+    ["symbol"]=>
+    string(10) "لوتوس"
+    ["percent"]=>
+    float(1.0770383318766)
+  }
+  [27]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR1OMID0101"
+    ["name"]=>
+    string(32) "تامین سرمایه امید"
+    ["symbol"]=>
+    string(10) "امیدح"
+    ["percent"]=>
+    float(0.66550925925926)
+  }
+  [28]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KALA0001"
+    ["name"]=>
+    string(30) "بورس کالای ایران"
+    ["symbol"]=>
+    string(8) "کالا"
+    ["percent"]=>
+    float(-0.1214599235559)
+  }
+  [29]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BORS0001"
+    ["name"]=>
+    string(43) "بورس اوراق بهادار تهران"
+    ["symbol"]=>
+    string(8) "بورس"
+    ["percent"]=>
+    float(0.14931196332718)
+  }
+  [30]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BENC0001"
+    ["name"]=>
+    string(38) "سایراشخاص بورس انرژی"
+    ["symbol"]=>
+    string(11) "انرژی3"
+    ["percent"]=>
+    float(0.25624338624339)
+  }
+  [31]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ZOBZ0001"
+    ["name"]=>
+    string(37) "سهامی ذوب آهن اصفهان"
+    ["symbol"]=>
+    string(6) "ذوب"
+    ["percent"]=>
+    float(0.35516025149517)
+  }
+  [32]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1FOLD0001"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(10) "فولاد"
+    ["percent"]=>
+    float(0.74329320314722)
+  }
+  [33]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KVEH0001"
+    ["name"]=>
+    string(35) "فولاد کاوه جنوب کیش"
+    ["symbol"]=>
+    string(8) "کاوه"
+    ["percent"]=>
+    float(0.30886194654699)
+  }
+  [34]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ARFZ0001"
+    ["name"]=>
+    string(38) "شرکت آهن و فولاد ارفع"
+    ["symbol"]=>
+    string(8) "ارفع"
+    ["percent"]=>
+    float(0.57201616394862)
+  }
+  [35]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KSIM0001"
+    ["name"]=>
+    string(19) "کالسیمین‌"
+    ["symbol"]=>
+    string(12) "فاسمین"
+    ["percent"]=>
+    float(0.56433529097704)
+  }
+  [36]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1FKHZ0001"
+    ["name"]=>
+    string(25) "فولاد خوزستان"
+    ["symbol"]=>
+    string(8) "فخوز"
+    ["percent"]=>
+    float(0.44222222222222)
+  }
+  [37]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KVIR0001"
+    ["name"]=>
+    string(50) "تولیدی فولاد سپید فراب کویر"
+    ["symbol"]=>
+    string(8) "کویر"
+    ["percent"]=>
+    float(0.46896551724138)
+  }
+  [38]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TOKA0001"
+    ["name"]=>
+    string(62) "سرمایه‌گذاری‌توکافولاد(هلدینگ‌"
+    ["symbol"]=>
+    string(10) "وتوکا"
+    ["percent"]=>
+    float(0.47900897936157)
+  }
+  [39]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SDIP0001"
+    ["name"]=>
+    string(32) "گروه‌صنعتی‌سدید"
+    ["symbol"]=>
+    string(10) "وسدید"
+    ["percent"]=>
+    float(0.27399660225101)
+  }
+  [40]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3KHMZ0001"
+    ["name"]=>
+    string(53) "هلدینگ صنایع معدنی خاورمیانه"
+    ["symbol"]=>
+    string(10) "میدکو"
+    ["percent"]=>
+    float(0.53475)
+  }
+  [41]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3IZSZ0001"
+    ["name"]=>
+    string(26) "ذوب روی اصفهان"
+    ["symbol"]=>
+    string(8) "فروی"
+    ["percent"]=>
+    float(0.27460620790738)
+  }
+  [42]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ALIR0001"
+    ["name"]=>
+    string(34) "آلومینیوم‌ایران‌"
+    ["symbol"]=>
+    string(10) "فایرا"
+    ["percent"]=>
+    float(0.10051821670161)
+  }
+  [43]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SEPA0001"
+    ["name"]=>
+    string(39) "گروه‌صنعتی‌سپاهان‌"
+    ["symbol"]=>
+    string(8) "فسپا"
+    ["percent"]=>
+    float(0.42361894024803)
+  }
+  [44]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1FSAZ0001"
+    ["name"]=>
+    string(32) "غلتک سازان سپاهان"
+    ["symbol"]=>
+    string(12) "فسازان"
+    ["percent"]=>
+    float(0.2365625)
+  }
+  [45]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD6011"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8079"
+    ["percent"]=>
+    float(1.8871391076115)
+  }
+  [46]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD6101"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8087"
+    ["percent"]=>
+    float(1.5666666666667)
+  }
+  [47]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TMLT0001"
+    ["name"]=>
+    string(39) "تامین سرمایه بانک ملت"
+    ["symbol"]=>
+    string(8) "تملت"
+    ["percent"]=>
+    float(0.33276133276133)
+  }
+  [48]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3YZTZ0001"
+    ["name"]=>
+    string(41) "مجتمع صنایع لاستیک یزد"
+    ["symbol"]=>
+    string(8) "پیزد"
+    ["percent"]=>
+    float(0.079891448239343)
+  }
+  [49]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PLKK0001"
+    ["name"]=>
+    string(18) "پلاسکوکار"
+    ["symbol"]=>
+    string(10) "پلاسک"
+    ["percent"]=>
+    float(0.095461658841941)
+  }
+  [50]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1YASA0001"
+    ["name"]=>
+    string(39) "ایران‌یاساتایرورابر"
+    ["symbol"]=>
+    string(8) "پاسا"
+    ["percent"]=>
+    float(0.21822195159081)
+  }
+  [51]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHND0001"
+    ["name"]=>
+    string(41) "صنایع‌ لاستیکی‌  سهند"
+    ["symbol"]=>
+    string(10) "پسهند"
+    ["percent"]=>
+    float(0.41748221514758)
+  }
+  [52]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR1YASA0101"
+    ["name"]=>
+    string(39) "ایران‌یاساتایرورابر"
+    ["symbol"]=>
+    string(10) "پاساح"
+    ["percent"]=>
+    float(-0.21612903225806)
+  }
+  [53]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TAIR0001"
+    ["name"]=>
+    string(22) "ایران‌ تایر"
+    ["symbol"]=>
+    string(10) "پتایر"
+    ["percent"]=>
+    float(0.13737337835436)
+  }
+  [54]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DRKH0001"
+    ["name"]=>
+    string(29) "درخشان‌ تهران‌"
+    ["symbol"]=>
+    string(10) "پدرخش"
+    ["percent"]=>
+    float(0.26196956778383)
+  }
+  [55]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ARTP0001"
+    ["name"]=>
+    string(51) "مجتمع‌صنعتی‌آرتاویل‌تایر"
+    ["symbol"]=>
+    string(10) "پارتا"
+    ["percent"]=>
+    float(0.16345679012346)
+  }
+  [56]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PLSP0001"
+    ["name"]=>
+    string(50) "کارخانجات تولیدی پلاستیران"
+    ["symbol"]=>
+    string(10) "پلاست"
+    ["percent"]=>
+    float(0.26765497777922)
+  }
+  [57]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7GAZP0001"
+    ["name"]=>
+    string(17) "گازلوله‌"
+    ["symbol"]=>
+    string(10) "پلوله"
+    ["percent"]=>
+    float(0.045362410009086)
+  }
+  [58]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KVRZ0001"
+    ["name"]=>
+    string(17) "کویر تایر"
+    ["symbol"]=>
+    string(10) "پکویر"
+    ["percent"]=>
+    float(0.24742544998657)
+  }
+  [59]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7HPKP0001"
+    ["name"]=>
+    string(48) "تولیدتجهیزات‌سنگین‌هپکو"
+    ["symbol"]=>
+    string(8) "تپکو"
+    ["percent"]=>
+    float(0.3925767309065)
+  }
+  [60]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1COMB0001"
+    ["name"]=>
+    string(41) "کمباین‌ سازی‌ ایران‌"
+    ["symbol"]=>
+    string(10) "تکمبا"
+    ["percent"]=>
+    float(0.042087639281797)
+  }
+  [61]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PIRN0001"
+    ["name"]=>
+    string(35) "پمپ‌ سازی‌ ایران‌"
+    ["symbol"]=>
+    string(10) "تپمپی"
+    ["percent"]=>
+    float(0.70538077036166)
+  }
+  [62]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TKNO0001"
+    ["name"]=>
+    string(14) "تکنوتار"
+    ["symbol"]=>
+    string(8) "تکنو"
+    ["percent"]=>
+    float(0.10319704219226)
+  }
+  [63]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TSHE0001"
+    ["name"]=>
+    string(47) "سرمایه گذاری پارس‌ توشه‌"
+    ["symbol"]=>
+    string(10) "وتوشه"
+    ["percent"]=>
+    float(0.051183084410136)
+  }
+  [64]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7AZMP0001"
+    ["name"]=>
+    string(45) "کارخانه های صنعتی آزمایش"
+    ["symbol"]=>
+    string(10) "لازما"
+    ["percent"]=>
+    float(0.24470652210855)
+  }
+  [65]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TRIR0001"
+    ["name"]=>
+    string(38) "تراکتورسازی‌ایران‌"
+    ["symbol"]=>
+    string(10) "تایرا"
+    ["percent"]=>
+    float(0.26917419625972)
+  }
+  [66]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR1GSKE0101"
+    ["name"]=>
+    string(58) "گسترش‌صنایع‌وخدمات‌کشاورزی‌"
+    ["symbol"]=>
+    string(10) "تکشاح"
+    ["percent"]=>
+    float(-0.015915119363395)
+  }
+  [67]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ASAL0001"
+    ["name"]=>
+    string(13) "آبسال‌"
+    ["symbol"]=>
+    string(10) "لابسا"
+    ["percent"]=>
+    float(0.21443442054129)
+  }
+  [68]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BARZ0001"
+    ["name"]=>
+    string(34) "گروه‌ صنعتی‌ بارز"
+    ["symbol"]=>
+    string(12) "پکرمان"
+    ["percent"]=>
+    float(0.0575)
+  }
+  [69]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GPSH0001"
+    ["name"]=>
+    string(63) "فرآورده‌های‌غدایی‌وقندپیرانشهر"
+    ["symbol"]=>
+    string(10) "قپیرا"
+    ["percent"]=>
+    float(-0.11221930815322)
+  }
+  [70]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD4811"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8070"
+    ["percent"]=>
+    float(1.2898550724638)
+  }
+  [71]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD4771"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8068"
+    ["percent"]=>
+    float(1.2485714285714)
+  }
+  [72]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD6071"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8084"
+    ["percent"]=>
+    float(3.95)
+  }
+  [73]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD6091"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8086"
+    ["percent"]=>
+    float(1.8333333333333)
+  }
+  [74]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD6061"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8083"
+    ["percent"]=>
+    float(2.3333333333333)
+  }
+  [75]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD4591"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8060"
+    ["percent"]=>
+    float(0.97635294117647)
+  }
+  [76]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD4981"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8077"
+    ["percent"]=>
+    float(1.3449319213313)
+  }
+  [77]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD6081"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8085"
+    ["percent"]=>
+    float(4.0242105263158)
+  }
+  [78]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD6021"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8080"
+    ["percent"]=>
+    float(2.4545454545455)
+  }
+  [79]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FOLD6041"
+    ["name"]=>
+    string(36) "فولاد مبارکه اصفهان"
+    ["symbol"]=>
+    string(12) "ضفلا8081"
+    ["percent"]=>
+    float(1.6585365853659)
+  }
+  [80]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9FKHZ2791"
+    ["name"]=>
+    string(25) "فولاد خوزستان"
+    ["symbol"]=>
+    string(12) "ضخوز7024"
+    ["percent"]=>
+    float(0.39344262295082)
+  }
+  [81]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GSBE0001"
+    ["name"]=>
+    string(34) "قند ثابت‌ خراسان‌"
+    ["symbol"]=>
+    string(10) "قثابت"
+    ["percent"]=>
+    float(0.13628476525705)
+  }
+  [82]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3CHRZ0001"
+    ["name"]=>
+    string(57) "فراوردههای غذایی وقند چهارمحال"
+    ["symbol"]=>
+    string(8) "قچار"
+    ["percent"]=>
+    float(0.71605246097841)
+  }
+  [83]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3GHSZ0001"
+    ["name"]=>
+    string(46) "قند شیروان قوچان و بجنورد"
+    ["symbol"]=>
+    string(8) "قشیر"
+    ["percent"]=>
+    float(0.0001152179924417)
+  }
+  [84]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GNBO0001"
+    ["name"]=>
+    string(21) "قند نیشابور"
+    ["symbol"]=>
+    string(10) "قنیشا"
+    ["percent"]=>
+    float(0.19971486277771)
+  }
+  [85]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHKR0001"
+    ["name"]=>
+    string(18) "شکرشاهرود"
+    ["symbol"]=>
+    string(8) "قشکر"
+    ["percent"]=>
+    float(0.016272643536997)
+  }
+  [86]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GGAZ0001"
+    ["name"]=>
+    string(42) "کارخانجات‌ قند قزوین‌"
+    ["symbol"]=>
+    string(10) "قزوین"
+    ["percent"]=>
+    float(0.042844684502208)
+  }
+  [87]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GLOR0001"
+    ["name"]=>
+    string(22) "قند لرستان‌"
+    ["symbol"]=>
+    string(10) "قلرست"
+    ["percent"]=>
+    float(-0.062618083670715)
+  }
+  [88]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GESF0001"
+    ["name"]=>
+    string(21) "قنداصفهان‌"
+    ["symbol"]=>
+    string(10) "قصفها"
+    ["percent"]=>
+    float(-0.041815405788998)
+  }
+  [89]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GHEG0001"
+    ["name"]=>
+    string(21) "قندهکمتان‌"
+    ["symbol"]=>
+    string(10) "قهکمت"
+    ["percent"]=>
+    float(-0.054460966542751)
+  }
+  [90]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GHND0001"
+    ["name"]=>
+    string(6) "شهد"
+    ["symbol"]=>
+    string(8) "قشهد"
+    ["percent"]=>
+    float(0.047202797202797)
+  }
+  [91]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7NJSP0001"
+    ["name"]=>
+    string(22) "قند نقش جهان"
+    ["symbol"]=>
+    string(8) "قنقش"
+    ["percent"]=>
+    float(0.029468366610536)
+  }
+  [92]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TNOV0001"
+    ["name"]=>
+    string(32) "تامین سرمایه نوین"
+    ["symbol"]=>
+    string(10) "تنوین"
+    ["percent"]=>
+    float(0.48116364884579)
+  }
+  [93]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7IADP0001"
+    ["name"]=>
+    string(37) "گروه توسعه هنر ایران"
+    ["symbol"]=>
+    string(8) "وهنر"
+    ["percent"]=>
+    float(0.41378676470588)
+  }
+  [94]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GSKE0001"
+    ["name"]=>
+    string(58) "گسترش‌صنایع‌وخدمات‌کشاورزی‌"
+    ["symbol"]=>
+    string(8) "تکشا"
+    ["percent"]=>
+    float(-0.3286)
+  }
+  [95]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3FATF0001"
+    ["name"]=>
+    string(55) "صندوق س.اعتماد آفرین پارسیان-د"
+    ["symbol"]=>
+    string(12) "اعتماد"
+    ["percent"]=>
+    float(0.02935369224694)
+  }
+  [96]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9GDIR0931"
+    ["name"]=>
+    string(52) "سرمایه‌گذاری‌غدیر(هلدینگ‌"
+    ["symbol"]=>
+    string(12) "ضغدر8041"
+    ["percent"]=>
+    float(1.1414285714286)
+  }
+  [97]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9GDIR0901"
+    ["name"]=>
+    string(52) "سرمایه‌گذاری‌غدیر(هلدینگ‌"
+    ["symbol"]=>
+    string(12) "ضغدر8038"
+    ["percent"]=>
+    float(1.75)
+  }
+  [98]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9GDIR0851"
+    ["name"]=>
+    string(52) "سرمایه‌گذاری‌غدیر(هلدینگ‌"
+    ["symbol"]=>
+    string(12) "ضغدر8036"
+    ["percent"]=>
+    float(0.88333333333333)
+  }
+  [99]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9GDIR0781"
+    ["name"]=>
+    string(52) "سرمایه‌گذاری‌غدیر(هلدینگ‌"
+    ["symbol"]=>
+    string(12) "ضغدر8033"
+    ["percent"]=>
+    float(1.2241992882562)
+  }
+  [100]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1FAYF0001"
+    ["name"]=>
+    string(55) "صندوق درآمد ثابت امین یکم فردا"
+    ["symbol"]=>
+    string(15) "امین یکم"
+    ["percent"]=>
+    float(0.027667984189723)
+  }
+  [101]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1KMND0001"
+    ["name"]=>
+    string(48) "صندوق س. با درآمد ثابت کمند"
+    ["symbol"]=>
+    string(8) "کمند"
+    ["percent"]=>
+    float(-0.0032793401570108)
+  }
+  [102]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3MEYF0001"
+    ["name"]=>
+    string(36) "صندوق س. توازن معیار"
+    ["symbol"]=>
+    string(12) "دمعیار"
+    ["percent"]=>
+    float(0.0063422852046378)
+  }
+  [103]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1FPAF0001"
+    ["name"]=>
+    string(47) "صندوق س. پارند پایدار سپهر"
+    ["symbol"]=>
+    string(10) "پارند"
+    ["percent"]=>
+    float(0.051306873184898)
+  }
+  [104]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1DARA0001"
+    ["name"]=>
+    string(53) "صندوق واسطه گری مالی یکم-سهام"
+    ["symbol"]=>
+    string(15) "دارا یکم"
+    ["percent"]=>
+    float(0.16880341880342)
+  }
+  [105]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9GDIR0721"
+    ["name"]=>
+    string(52) "سرمایه‌گذاری‌غدیر(هلدینگ‌"
+    ["symbol"]=>
+    string(12) "ضغدر8030"
+    ["percent"]=>
+    float(0.86567164179104)
+  }
+  [106]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1YGHT0001"
+    ["name"]=>
+    string(42) "صندوق س یاقوت آگاه-ثابت"
+    ["symbol"]=>
+    string(10) "یاقوت"
+    ["percent"]=>
+    float(0.022276760430432)
+  }
+  [107]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1SARV0001"
+    ["name"]=>
+    string(54) "صندوق س سروسودمند مدبران-سهام"
+    ["symbol"]=>
+    string(6) "سرو"
+    ["percent"]=>
+    float(0.48407412923679)
+  }
+  [108]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3SGAF0001"
+    ["name"]=>
+    string(50) "صندوق س. گنجینه آینده روشن-د"
+    ["symbol"]=>
+    string(10) "صایند"
+    ["percent"]=>
+    float(0.0080325267750892)
+  }
+  [109]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1FIRO0001"
+    ["name"]=>
+    string(56) "صندوق بادرآمد ثابت فیروزه آسیا"
+    ["symbol"]=>
+    string(12) "فیروزا"
+    ["percent"]=>
+    float(0.025720323694655)
+  }
+  [110]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3GJAF0001"
+    ["name"]=>
+    string(43) "صندوق س. گنجینه یکم آوید"
+    ["symbol"]=>
+    string(10) "گنجین"
+    ["percent"]=>
+    float(0.0157043445552)
+  }
+  [111]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3SAGF0001"
+    ["name"]=>
+    string(41) "صندوق س.هستی بخش آگاه-س"
+    ["symbol"]=>
+    string(8) "آگاس"
+    ["percent"]=>
+    float(0.55073221757322)
+  }
+  [112]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1AFRN0001"
+    ["name"]=>
+    string(53) "صندوق س افرا نماد پایدار-ثابت"
+    ["symbol"]=>
+    string(10) "افران"
+    ["percent"]=>
+    float(0.043238270469181)
+  }
+  [113]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3DAAF0001"
+    ["name"]=>
+    string(43) "صندوق س. دارا الگوریتم-د"
+    ["symbol"]=>
+    string(8) "دارا"
+    ["percent"]=>
+    float(0.047146401985112)
+  }
+  [114]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1SSPF0001"
+    ["name"]=>
+    string(54) "صندوق س. پاداش سهامداری توسعه1"
+    ["symbol"]=>
+    string(8) "سپاس"
+    ["percent"]=>
+    float(-0.00049825610363727)
+  }
+  [115]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9GDIR0961"
+    ["name"]=>
+    string(52) "سرمایه‌گذاری‌غدیر(هلدینگ‌"
+    ["symbol"]=>
+    string(12) "ضغدر8044"
+    ["percent"]=>
+    float(0.85555555555556)
+  }
+  [116]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9GDIR0861"
+    ["name"]=>
+    string(52) "سرمایه‌گذاری‌غدیر(هلدینگ‌"
+    ["symbol"]=>
+    string(12) "ضغدر8037"
+    ["percent"]=>
+    float(1.1624418003104)
+  }
+  [117]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1FKNF0001"
+    ["name"]=>
+    string(48) "صندوق س. با درآمد ثابت کیان"
+    ["symbol"]=>
+    string(8) "کیان"
+    ["percent"]=>
+    float(0.079774732827813)
+  }
+  [118]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SSNR0001"
+    ["name"]=>
+    string(35) "سیمان‌ سفیدنی‌ریز"
+    ["symbol"]=>
+    string(8) "سنیر"
+    ["percent"]=>
+    float(0.0024156295469635)
+  }
+  [119]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SKAZ0001"
+    ["name"]=>
+    string(20) "سیمان‌ خزر"
+    ["symbol"]=>
+    string(8) "سخزر"
+    ["percent"]=>
+    float(1.0147210627889)
+  }
+  [120]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7CBBP0001"
+    ["name"]=>
+    string(23) "سیمان باقران"
+    ["symbol"]=>
+    string(10) "سباقر"
+    ["percent"]=>
+    float(0.7033918691364)
+  }
+  [121]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SRJP0001"
+    ["name"]=>
+    string(41) "بین المللی ساروج بوشهر"
+    ["symbol"]=>
+    string(10) "ساروج"
+    ["percent"]=>
+    float(0.0031500953902125)
+  }
+  [122]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SITA0001"
+    ["name"]=>
+    string(45) "سرمایه گذاری سیمان تامین"
+    ["symbol"]=>
+    string(8) "سیتا"
+    ["percent"]=>
+    float(0.066666666666667)
+  }
+  [123]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SBOJ0001"
+    ["name"]=>
+    string(26) "سیمان‌ بجنورد"
+    ["symbol"]=>
+    string(10) "سبجنو"
+    ["percent"]=>
+    float(0.22216173413837)
+  }
+  [124]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SADB0001"
+    ["name"]=>
+    string(35) "سیمان‌ آرتا اردبیل"
+    ["symbol"]=>
+    string(12) "ساربیل"
+    ["percent"]=>
+    float(0.31868451688009)
+  }
+  [125]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SGEN0001"
+    ["name"]=>
+    string(25) "سیمان‌ قائن‌"
+    ["symbol"]=>
+    string(10) "سقاین"
+    ["percent"]=>
+    float(0.016243743963474)
+  }
+  [126]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SFRS0001"
+    ["name"]=>
+    string(24) "سیمان‌فارس‌"
+    ["symbol"]=>
+    string(8) "سفار"
+    ["percent"]=>
+    float(0.34997908188491)
+  }
+  [127]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SKHS0001"
+    ["name"]=>
+    string(22) "سیمان‌خاش‌"
+    ["symbol"]=>
+    string(8) "سخاش"
+    ["percent"]=>
+    float(0.17332148868524)
+  }
+  [128]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SEFH0001"
+    ["name"]=>
+    string(28) "سیمان‌اصفهان‌"
+    ["symbol"]=>
+    string(10) "سصفها"
+    ["percent"]=>
+    float(0.68437259430331)
+  }
+  [129]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9GDIR0911"
+    ["name"]=>
+    string(52) "سرمایه‌گذاری‌غدیر(هلدینگ‌"
+    ["symbol"]=>
+    string(12) "ضغدر8039"
+    ["percent"]=>
+    float(0.96078431372549)
+  }
+  [130]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SBHN0001"
+    ["name"]=>
+    string(29) "سیمان‌ بهبهان‌"
+    ["symbol"]=>
+    string(10) "سبهان"
+    ["percent"]=>
+    float(0.22130955174842)
+  }
+  [131]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3SACZ0001"
+    ["name"]=>
+    string(19) "سیمان ساوه"
+    ["symbol"]=>
+    string(8) "ساوه"
+    ["percent"]=>
+    float(1.1619012930249)
+  }
+  [132]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SDST0001"
+    ["name"]=>
+    string(36) "صنایع سیمان دشتستان"
+    ["symbol"]=>
+    string(8) "سدشت"
+    ["percent"]=>
+    float(0.073653760569648)
+  }
+  [133]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7LARP0001"
+    ["name"]=>
+    string(34) "شرکت سیمان لارستان"
+    ["symbol"]=>
+    string(8) "سلار"
+    ["percent"]=>
+    float(0.37277768250157)
+  }
+  [134]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7KACP0001"
+    ["name"]=>
+    string(21) "سیمان کارون"
+    ["symbol"]=>
+    string(12) "سکارون"
+    ["percent"]=>
+    float(-0.054550860973698)
+  }
+  [135]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GDIR0001"
+    ["name"]=>
+    string(52) "سرمایه‌گذاری‌غدیر(هلدینگ‌"
+    ["symbol"]=>
+    string(10) "وغدیر"
+    ["percent"]=>
+    float(0.52990018549598)
+  }
+  [136]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SAND0001"
+    ["name"]=>
+    string(53) "سرمایه گذاری صندوق بازنشستگی"
+    ["symbol"]=>
+    string(12) "وصندوق"
+    ["percent"]=>
+    float(0.68353140916808)
+  }
+  [137]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BANK0001"
+    ["name"]=>
+    string(50) "سرمایه گذاری گروه توسعه ملی"
+    ["symbol"]=>
+    string(10) "وبانک"
+    ["percent"]=>
+    float(0.52702993754038)
+  }
+  [138]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1OIMC0001"
+    ["name"]=>
+    string(54) "گروه مدیریت سرمایه گذاری امید"
+    ["symbol"]=>
+    string(10) "وامید"
+    ["percent"]=>
+    float(0.67565155965349)
+  }
+  [139]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3MAOF0001"
+    ["name"]=>
+    string(44) "صندوق س.مشترک آسمان امید"
+    ["symbol"]=>
+    string(12) "آسامید"
+    ["percent"]=>
+    float(0.03111288392501)
+  }
+  [140]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3SSKF0001"
+    ["name"]=>
+    string(40) "صندوق س.سپهر کاریزما-س"
+    ["symbol"]=>
+    string(10) "کاریس"
+    ["percent"]=>
+    float(0.56718050065876)
+  }
+  [141]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7IEIP0001"
+    ["name"]=>
+    string(50) "بازرسی مهندسی و صنعتی ایران"
+    ["symbol"]=>
+    string(12) "خبازرس"
+    ["percent"]=>
+    float(0.43052220888355)
+  }
+  [142]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3NPSZ0001"
+    ["name"]=>
+    string(23) "نفت پاسارگاد"
+    ["symbol"]=>
+    string(8) "شپاس"
+    ["percent"]=>
+    float(0.39682352941176)
+  }
+  [143]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3KAHZ0001"
+    ["name"]=>
+    string(41) "تولید برق ماهتاب کهنوج"
+    ["symbol"]=>
+    string(12) "بکهنوج"
+    ["percent"]=>
+    float(0.80463821892393)
+  }
+  [144]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PTEH0001"
+    ["name"]=>
+    string(30) "پالایش نفت تهران"
+    ["symbol"]=>
+    string(10) "شتران"
+    ["percent"]=>
+    float(1.2367493932514)
+  }
+  [145]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NAFT0001"
+    ["name"]=>
+    string(49) "سرمایه‌گذاری صنعت‌نفت‌‌"
+    ["symbol"]=>
+    string(8) "ونفت"
+    ["percent"]=>
+    float(0.15366317792578)
+  }
+  [146]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PNBA0001"
+    ["name"]=>
+    string(36) "پالایش نفت بندرعباس"
+    ["symbol"]=>
+    string(10) "شبندر"
+    ["percent"]=>
+    float(0.88309970907167)
+  }
+  [147]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SEPP0001"
+    ["name"]=>
+    string(19) "نفت سپاهان"
+    ["symbol"]=>
+    string(8) "شسپا"
+    ["percent"]=>
+    float(0.37494949494949)
+  }
+  [148]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NPRS0001"
+    ["name"]=>
+    string(21) "نفت‌ پارس‌"
+    ["symbol"]=>
+    string(8) "شنفت"
+    ["percent"]=>
+    float(1.0102204408818)
+  }
+  [149]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NBEH0001"
+    ["name"]=>
+    string(23) "نفت‌ بهران‌"
+    ["symbol"]=>
+    string(10) "شبهرن"
+    ["percent"]=>
+    float(0.33426455395987)
+  }
+  [150]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PNTB0001"
+    ["name"]=>
+    string(30) "پالایش نفت تبریز"
+    ["symbol"]=>
+    string(10) "شبریز"
+    ["percent"]=>
+    float(0.83251195825482)
+  }
+  [151]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3NOLZ0001"
+    ["name"]=>
+    string(21) "نفت ایرانول"
+    ["symbol"]=>
+    string(10) "شرانل"
+    ["percent"]=>
+    float(0.3584107946027)
+  }
+  [152]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ZNGP0001"
+    ["name"]=>
+    string(36) "تجهیزنیروی‌زنگان‌"
+    ["symbol"]=>
+    string(8) "شزنگ"
+    ["percent"]=>
+    float(0.53005595141313)
+  }
+  [153]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MOBN0001"
+    ["name"]=>
+    string(37) "مبین انرژی خلیج فارس"
+    ["symbol"]=>
+    string(8) "مبین"
+    ["percent"]=>
+    float(0.29596928982726)
+  }
+  [154]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PTEH2731"
+    ["name"]=>
+    string(30) "پالایش نفت تهران"
+    ["symbol"]=>
+    string(12) "ضترا8040"
+    ["percent"]=>
+    float(1.0754716981132)
+  }
+  [155]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PTEH2561"
+    ["name"]=>
+    string(30) "پالایش نفت تهران"
+    ["symbol"]=>
+    string(12) "ضترا8023"
+    ["percent"]=>
+    float(1.1045308287677)
+  }
+  [156]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PTEH2511"
+    ["name"]=>
+    string(30) "پالایش نفت تهران"
+    ["symbol"]=>
+    string(12) "ضترا8018"
+    ["percent"]=>
+    float(1.0833333333333)
+  }
+  [157]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PTEH2721"
+    ["name"]=>
+    string(30) "پالایش نفت تهران"
+    ["symbol"]=>
+    string(12) "ضترا8039"
+    ["percent"]=>
+    float(1.0333333333333)
+  }
+  [158]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PTEH2551"
+    ["name"]=>
+    string(30) "پالایش نفت تهران"
+    ["symbol"]=>
+    string(12) "ضترا8022"
+    ["percent"]=>
+    float(1.4263752546768)
+  }
+  [159]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PNBA4441"
+    ["name"]=>
+    string(36) "پالایش نفت بندرعباس"
+    ["symbol"]=>
+    string(12) "ضبدر8061"
+    ["percent"]=>
+    float(0.60614525139665)
+  }
+  [160]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PTEH2661"
+    ["name"]=>
+    string(30) "پالایش نفت تهران"
+    ["symbol"]=>
+    string(12) "ضترا8033"
+    ["percent"]=>
+    float(0.55238095238095)
+  }
+  [161]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PTEH2571"
+    ["name"]=>
+    string(30) "پالایش نفت تهران"
+    ["symbol"]=>
+    string(12) "ضترا8024"
+    ["percent"]=>
+    float(1.23)
+  }
+  [162]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PNBA4491"
+    ["name"]=>
+    string(36) "پالایش نفت بندرعباس"
+    ["symbol"]=>
+    string(12) "ضبدر8066"
+    ["percent"]=>
+    int(0)
+  }
+  [163]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BFJR0001"
+    ["name"]=>
+    string(35) "فجر انرژی خلیج فارس"
+    ["symbol"]=>
+    string(8) "بفجر"
+    ["percent"]=>
+    float(0.40383254898342)
+  }
+  [164]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BDMZ0001"
+    ["name"]=>
+    string(42) "تولید نیروی  برق دماوند"
+    ["symbol"]=>
+    string(12) "دماوند"
+    ["percent"]=>
+    float(0.25250350699315)
+  }
+  [165]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1SDVI0001"
+    ["name"]=>
+    string(49) "صندوق س با درآمد ثابت تصمیم"
+    ["symbol"]=>
+    string(10) "تصمیم"
+    ["percent"]=>
+    float(0.065405831363278)
+  }
+  [166]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3FKOF0001"
+    ["name"]=>
+    string(44) "صندوق س. آرمان آتی کوثر-د"
+    ["symbol"]=>
+    string(10) "آکورد"
+    ["percent"]=>
+    float(0.057688641476341)
+  }
+  [167]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRTKLOTF0001"
+    ["name"]=>
+    string(48) "صندوق س.پشتوانه طلای لوتوس"
+    ["symbol"]=>
+    string(6) "طلا"
+    ["percent"]=>
+    float(0.36054097814182)
+  }
+  [168]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3AVSF0001"
+    ["name"]=>
+    string(55) "صندوق س. اندیشه ورزان صباتامین"
+    ["symbol"]=>
+    string(10) "اوصتا"
+    ["percent"]=>
+    float(0.039187790998448)
+  }
+  [169]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRTKZARF0001"
+    ["name"]=>
+    string(49) "صندوق س.پشتوانه سکه طلای زر"
+    ["symbol"]=>
+    string(4) "زر"
+    ["percent"]=>
+    float(0.51335397436268)
+  }
+  [170]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1CFIF0001"
+    ["name"]=>
+    string(53) "صندوق شاخص30 شرکت فیروزه- سهام"
+    ["symbol"]=>
+    string(12) "فیروزه"
+    ["percent"]=>
+    float(0.64104838709677)
+  }
+  [171]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRTKMOFD0001"
+    ["name"]=>
+    string(47) "صندوق س. پشتوانه طلای مفید"
+    ["symbol"]=>
+    string(8) "عیار"
+    ["percent"]=>
+    float(0.57986455981941)
+  }
+  [172]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1ARGH0001"
+    ["name"]=>
+    string(56) "ص سرمایه گذاری ارمغان ایرانیان"
+    ["symbol"]=>
+    string(12) "ارمغان"
+    ["percent"]=>
+    float(-0.0064452156668319)
+  }
+  [173]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3SSNF0001"
+    ["name"]=>
+    string(44) "صندوق س.سپهرخبرگان نفت-د"
+    ["symbol"]=>
+    string(8) "سخند"
+    ["percent"]=>
+    float(-0.11321739130435)
+  }
+  [174]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1OMEL0001"
+    ["name"]=>
+    string(41) "صندوق س در سهام افق ملت"
+    ["symbol"]=>
+    string(13) "افق ملت"
+    ["percent"]=>
+    float(0.5427607396656)
+  }
+  [175]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1SKDF0001"
+    ["name"]=>
+    string(48) "صندوق س تجارت شاخصی کاردان"
+    ["symbol"]=>
+    string(12) "کاردان"
+    ["percent"]=>
+    float(0.56473694433853)
+  }
+  [176]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3SMIF0001"
+    ["name"]=>
+    string(54) "صندوق س.آرمان آتیه درخشان مس-س"
+    ["symbol"]=>
+    string(10) "آتیمس"
+    ["percent"]=>
+    float(0.63865546218487)
+  }
+  [177]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ZKPZ0001"
+    ["name"]=>
+    string(34) "نیروگاه زاگرس کوثر"
+    ["symbol"]=>
+    string(12) "بزاگرس"
+    ["percent"]=>
+    float(1.0041657531243)
+  }
+  [178]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3SATF0001"
+    ["name"]=>
+    string(53) "صندوق س.توسعه اندوخته آینده-س"
+    ["symbol"]=>
+    string(8) "اطلس"
+    ["percent"]=>
+    float(0.53502849751979)
+  }
+  [179]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3SSAF0001"
+    ["name"]=>
+    string(49) "صندوق س.آسمان آرمانی سهام-س"
+    ["symbol"]=>
+    string(8) "آساس"
+    ["percent"]=>
+    float(0.5337962962963)
+  }
+  [180]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1BZRO0001"
+    ["name"]=>
+    string(49) "صندوق س بذر امید آفرین-سهام"
+    ["symbol"]=>
+    string(6) "بذر"
+    ["percent"]=>
+    float(0.50219718309859)
+  }
+  [181]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRTKKIAN0001"
+    ["name"]=>
+    string(35) "صندوق سکه طلای کیان"
+    ["symbol"]=>
+    string(8) "گوهر"
+    ["percent"]=>
+    float(0.59620894300624)
+  }
+  [182]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT1CSNF0001"
+    ["name"]=>
+    string(58) "صندوق سرمایه‌گذاری صنوین-مختلط"
+    ["symbol"]=>
+    string(10) "صنوین"
+    ["percent"]=>
+    float(0.47728967022243)
+  }
+  [183]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3CASF0001"
+    ["name"]=>
+    string(45) "صندوق س.آرمان سپهر آشنا-م"
+    ["symbol"]=>
+    string(8) "آسام"
+    ["percent"]=>
+    float(0.46033853302356)
+  }
+  [184]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3CSAF0001"
+    ["name"]=>
+    string(52) "صندوق س. ثروت آفرین پارسیان-م"
+    ["symbol"]=>
+    string(10) "ثروتم"
+    ["percent"]=>
+    float(0.31137931034483)
+  }
+  [185]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRT3SALF0001"
+    ["name"]=>
+    string(53) "صندوق س.امین تدبیرگران فردا-س"
+    ["symbol"]=>
+    string(10) "الماس"
+    ["percent"]=>
+    float(0.44306136644415)
+  }
+  [186]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3JPPZ0001"
+    ["name"]=>
+    string(45) "توسعه مولد نیروگاهی جهرم"
+    ["symbol"]=>
+    string(10) "بجهرم"
+    ["percent"]=>
+    float(0.45712541959109)
+  }
+  [187]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SRMA0001"
+    ["name"]=>
+    string(22) "سرما آفرین‌"
+    ["symbol"]=>
+    string(10) "لسرما"
+    ["percent"]=>
+    float(0.066287606160933)
+  }
+  [188]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7LKPP0001"
+    ["name"]=>
+    string(39) "لوازم‌ خانگی‌ پارس‌"
+    ["symbol"]=>
+    string(10) "لخانه"
+    ["percent"]=>
+    float(0.00060284543043164)
+  }
+  [189]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3TBSZ0001"
+    ["name"]=>
+    string(46) "فرآوری زغال سنگ پروده طبس"
+    ["symbol"]=>
+    string(10) "کپرور"
+    ["percent"]=>
+    float(0.033511453543764)
+  }
+  [190]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DALZ0001"
+    ["name"]=>
+    string(18) "البرزدارو"
+    ["symbol"]=>
+    string(10) "دالبر"
+    ["percent"]=>
+    float(0.39243721875454)
+  }
+  [191]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BRKT0001"
+    ["name"]=>
+    string(30) "گروه دارویی برکت"
+    ["symbol"]=>
+    string(8) "برکت"
+    ["percent"]=>
+    float(0.82022471910112)
+  }
+  [192]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DZAH0001"
+    ["name"]=>
+    string(37) "‌داروسازی‌زهراوی‌"
+    ["symbol"]=>
+    string(14) "دزهراوی"
+    ["percent"]=>
+    float(0.050100200400802)
+  }
+  [193]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3RPEZ0001"
+    ["name"]=>
+    string(37) "تولید و صادرات ریشمک"
+    ["symbol"]=>
+    string(10) "ریشمک"
+    ["percent"]=>
+    float(0.5076573342905)
+  }
+  [194]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1IRDR0001"
+    ["name"]=>
+    string(24) "‌ایران‌دارو"
+    ["symbol"]=>
+    string(10) "دیران"
+    ["percent"]=>
+    float(0.43489281264768)
+  }
+  [195]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1AMIN0001"
+    ["name"]=>
+    string(31) "داروسازی‌ امین‌"
+    ["symbol"]=>
+    string(10) "دامین"
+    ["percent"]=>
+    float(0.22570093457944)
+  }
+  [196]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BLKZ0001"
+    ["name"]=>
+    string(52) "مواد اولیه دارویی البرز بالک"
+    ["symbol"]=>
+    string(10) "دبالک"
+    ["percent"]=>
+    float(0.43201754385965)
+  }
+  [197]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DKSR0001"
+    ["name"]=>
+    string(28) "داروسازی‌ کوثر"
+    ["symbol"]=>
+    string(10) "دکوثر"
+    ["percent"]=>
+    float(0.3325871659205)
+  }
+  [198]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DAML0001"
+    ["name"]=>
+    string(47) "داروسازی زاگرس فارمد پارس"
+    ["symbol"]=>
+    string(8) "ددام"
+    ["percent"]=>
+    float(0.034)
+  }
+  [199]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3AVLZ0001"
+    ["name"]=>
+    string(32) "داروسازی آوه سینا"
+    ["symbol"]=>
+    string(8) "داوه"
+    ["percent"]=>
+    float(-0.025860215053763)
+  }
+  [200]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ANQZ0001"
+    ["name"]=>
+    string(20) "عطرین نخ قم"
+    ["symbol"]=>
+    string(10) "نطرین"
+    ["percent"]=>
+    float(0.19796511627907)
+  }
+  [201]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3DSNZ0001"
+    ["name"]=>
+    string(44) "داروسازی سبحان انکولوژی"
+    ["symbol"]=>
+    string(12) "دسانکو"
+    ["percent"]=>
+    float(0.51544320749979)
+  }
+  [202]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DSBH0001"
+    ["name"]=>
+    string(19) "سبحان دارو"
+    ["symbol"]=>
+    string(12) "دسبحان"
+    ["percent"]=>
+    float(0.39571768437748)
+  }
+  [203]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3DPDZ0001"
+    ["name"]=>
+    string(26) "توزیع دارو پخش"
+    ["symbol"]=>
+    string(12) "دتوزیع"
+    ["percent"]=>
+    float(0.49415360995737)
+  }
+  [204]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3PKSH0001"
+    ["name"]=>
+    string(17) "پخش البرز"
+    ["symbol"]=>
+    string(6) "پخش"
+    ["percent"]=>
+    float(-0.086538461538462)
+  }
+  [205]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DJBR0001"
+    ["name"]=>
+    string(48) "داروسازی‌ جابرابن‌حیان‌"
+    ["symbol"]=>
+    string(10) "دجابر"
+    ["percent"]=>
+    float(0.079157311422156)
+  }
+  [206]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3HEDZ0001"
+    ["name"]=>
+    string(15) "پخش هجرت"
+    ["symbol"]=>
+    string(8) "هجرت"
+    ["percent"]=>
+    float(0.64720919126942)
+  }
+  [207]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DTIP0001"
+    ["name"]=>
+    string(47) "سرمایه گذاری دارویی تامین"
+    ["symbol"]=>
+    string(12) "تیپیکو"
+    ["percent"]=>
+    float(0.14212075460188)
+  }
+  [208]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3RAPZ0001"
+    ["name"]=>
+    string(37) "دارویی ره آورد تامین"
+    ["symbol"]=>
+    string(12) "درهآور"
+    ["percent"]=>
+    float(-0.0011871622728017)
+  }
+  [209]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DDPK0001"
+    ["name"]=>
+    string(45) "شیمی‌ داروئی‌ داروپخش‌"
+    ["symbol"]=>
+    string(10) "دشیمی"
+    ["percent"]=>
+    float(0.10769230769231)
+  }
+  [210]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PTOP0001"
+    ["name"]=>
+    string(28) "پشم‌ بافی‌ توس"
+    ["symbol"]=>
+    string(8) "نتوس"
+    ["percent"]=>
+    float(0.12356164383562)
+  }
+  [211]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1HMRZ0001"
+    ["name"]=>
+    string(45) "شرکت ارتباطات سیار ایران"
+    ["symbol"]=>
+    string(10) "همراه"
+    ["percent"]=>
+    float(0.40031994704325)
+  }
+  [212]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1EXIR0001"
+    ["name"]=>
+    string(30) "داروسازی‌ اکسیر"
+    ["symbol"]=>
+    string(6) "دلر"
+    ["percent"]=>
+    float(-0.076628106713423)
+  }
+  [213]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0479981"
+    ["name"]=>
+    string(53) "زعفران9908پوشالمعمول سحرخیز(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ12"
+    ["percent"]=>
+    float(0.26418379611082)
+  }
+  [214]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0389981"
+    ["name"]=>
+    string(37) "زعفران9908نگین زرین(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ05"
+    ["percent"]=>
+    float(0.47568287037037)
+  }
+  [215]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR1GORJ0101"
+    ["name"]=>
+    string(29) "بیسکویت‌ گرجی‌"
+    ["symbol"]=>
+    string(12) "غگرجیح"
+    ["percent"]=>
+    float(0.029607843137255)
+  }
+  [216]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0409981"
+    ["name"]=>
+    string(39) "زعفران9908نگین روستا(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ08"
+    ["percent"]=>
+    float(0.45967013240485)
+  }
+  [217]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0399981"
+    ["name"]=>
+    string(50) "زعفران 9908پوشالمعمول زرین(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ06"
+    ["percent"]=>
+    float(0.11544227886057)
+  }
+  [218]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0419981"
+    ["name"]=>
+    string(51) "زعفران9908پوشالمعمول روستا(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ13"
+    ["percent"]=>
+    float(0.13968341700828)
+  }
+  [219]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0439981"
+    ["name"]=>
+    string(49) "زعفران9908پوشالمعمول نوین(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ14"
+    ["percent"]=>
+    float(0.12509252405625)
+  }
+  [220]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0459981"
+    ["name"]=>
+    string(53) "زعفران9908پوشالمعمول طلاسرخ(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ15"
+    ["percent"]=>
+    float(0.15846153846154)
+  }
+  [221]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0469981"
+    ["name"]=>
+    string(41) "زعفران9908نگین سحرخیز(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ11"
+    ["percent"]=>
+    float(0.41537931034483)
+  }
+  [222]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0489981"
+    ["name"]=>
+    string(41) "زعفران9908نگین بیرجند(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ16"
+    ["percent"]=>
+    float(0.57242362075108)
+  }
+  [223]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1P0119981"
+    ["name"]=>
+    string(48) "پسته فندقی32-30طلاسبززرند9908"
+    ["symbol"]=>
+    string(13) "پست9908-02"
+    ["percent"]=>
+    float(0.17391687146806)
+  }
+  [224]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KSKA0001"
+    ["name"]=>
+    string(43) "صنایع‌کاغذسازی‌کاوه‌"
+    ["symbol"]=>
+    string(10) "چکاوه"
+    ["percent"]=>
+    float(0.37844611528822)
+  }
+  [225]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0429981"
+    ["name"]=>
+    string(37) "زعفران9908نگین نوین(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ09"
+    ["percent"]=>
+    float(0.53046914062024)
+  }
+  [226]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0499981"
+    ["name"]=>
+    string(53) "زعفران9908پوشالمعمول بیرجند(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ17"
+    ["percent"]=>
+    float(0.13334961906652)
+  }
+  [227]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1P0129981"
+    ["name"]=>
+    string(42) "پسته فندقی32-30سبزدانه9908"
+    ["symbol"]=>
+    string(13) "پست9908-04"
+    ["percent"]=>
+    float(0.18903308981521)
+  }
+  [228]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1H0080031"
+    ["name"]=>
+    string(46) "زیره سبز0003شرکت مینوبذر(پ)"
+    ["symbol"]=>
+    string(14) "زیر0003پ04"
+    ["percent"]=>
+    int(0)
+  }
+  [229]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1H0050031"
+    ["name"]=>
+    string(39) "زیره سبز0003کیمیابذر(پ)"
+    ["symbol"]=>
+    string(14) "زیر0003پ01"
+    ["percent"]=>
+    float(0.049998566883545)
+  }
+  [230]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7KIVP0001"
+    ["name"]=>
+    string(10) "کیوان"
+    ["symbol"]=>
+    string(10) "غیوان"
+    ["percent"]=>
+    float(0.001542713890853)
+  }
+  [231]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1H0070031"
+    ["name"]=>
+    string(40) "زیره سبز0003شرکت بیهق(پ)"
+    ["symbol"]=>
+    string(14) "زیر0003پ03"
+    ["percent"]=>
+    int(0)
+  }
+  [232]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3JPRZ0001"
+    ["name"]=>
+    string(37) "گروه صنایع کاغذ پارس"
+    ["symbol"]=>
+    string(10) "چکاپا"
+    ["percent"]=>
+    float(0.64246153846154)
+  }
+  [233]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KRTI0001"
+    ["name"]=>
+    string(27) "کارتن‌ ایران‌"
+    ["symbol"]=>
+    string(10) "چکارن"
+    ["percent"]=>
+    float(0.013397129186603)
+  }
+  [234]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DABO0001"
+    ["name"]=>
+    string(39) "داروسازی‌ ابوریحان‌"
+    ["symbol"]=>
+    string(10) "دابور"
+    ["percent"]=>
+    float(0.098080545340389)
+  }
+  [235]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DFRB0001"
+    ["name"]=>
+    string(35) "داروسازی‌ فارابی‌"
+    ["symbol"]=>
+    string(10) "دفارا"
+    ["percent"]=>
+    float(0.24828729281768)
+  }
+  [236]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NOSH0001"
+    ["name"]=>
+    string(28) "نوش‌مازندران‌"
+    ["symbol"]=>
+    string(8) "غنوش"
+    ["percent"]=>
+    float(0.99489378578688)
+  }
+  [237]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7VLNP0001"
+    ["name"]=>
+    string(39) "شرکت لیزینگ آریا دانا"
+    ["symbol"]=>
+    string(10) "ولانا"
+    ["percent"]=>
+    float(-0.093049367959723)
+  }
+  [238]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PBRP0001"
+    ["name"]=>
+    string(47) "امور رفاهی کارگزاران پارس"
+    ["symbol"]=>
+    string(10) "گپارس"
+    ["percent"]=>
+    float(0.39757191293886)
+  }
+  [239]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7TRKP0001"
+    ["name"]=>
+    string(51) "توریستی ورفاهی آبادگران کیش"
+    ["symbol"]=>
+    string(8) "گکیش"
+    ["percent"]=>
+    float(-0.085535211782334)
+  }
+  [240]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR7TRKP0101"
+    ["name"]=>
+    string(51) "توریستی ورفاهی آبادگران کیش"
+    ["symbol"]=>
+    string(10) "گکیشح"
+    ["percent"]=>
+    float(0.12685927887236)
+  }
+  [241]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ISLZ0001"
+    ["name"]=>
+    string(33) "لیزینگ ایران و شرق"
+    ["symbol"]=>
+    string(10) "ولشرق"
+    ["percent"]=>
+    float(0.11653604008737)
+  }
+  [242]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SNOP0001"
+    ["name"]=>
+    string(49) "سرمایه گذاری ساختمانی نوین"
+    ["symbol"]=>
+    string(8) "وثنو"
+    ["percent"]=>
+    float(0.58319625458687)
+  }
+  [243]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SNAP0001"
+    ["name"]=>
+    string(51) "سرمایه گذاری نیروگاهی ایران"
+    ["symbol"]=>
+    string(8) "وسنا"
+    ["percent"]=>
+    float(0.39610344827586)
+  }
+  [244]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7VOSP0001"
+    ["name"]=>
+    string(41) "سرمایه گذاری وثوق امین"
+    ["symbol"]=>
+    string(8) "وثوق"
+    ["percent"]=>
+    float(-0.12847944024743)
+  }
+  [245]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7GSIP0001"
+    ["name"]=>
+    string(57) "واسپاری تجارت وسرمایه ایرانیان"
+    ["symbol"]=>
+    string(12) "ولتجار"
+    ["percent"]=>
+    float(0.1471807628524)
+  }
+  [246]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7VHSP0001"
+    ["name"]=>
+    string(34) "احیاء صنایع خراسان"
+    ["symbol"]=>
+    string(10) "واحصا"
+    ["percent"]=>
+    float(-0.029402709359606)
+  }
+  [247]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR3IMFZ0101"
+    ["name"]=>
+    string(56) "گروه سرمایه گذاری میراث فرهنگی"
+    ["symbol"]=>
+    string(10) "سمگاح"
+    ["percent"]=>
+    float(0.033028812368236)
+  }
+  [248]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7VHYP0001"
+    ["name"]=>
+    string(52) "م .صنایع و معادن احیاء سپاهان"
+    ["symbol"]=>
+    string(10) "واحیا"
+    ["percent"]=>
+    float(0.59518612869875)
+  }
+  [249]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7IFMP0001"
+    ["name"]=>
+    string(39) "س. فنی و مهندسی مشانیر"
+    ["symbol"]=>
+    string(10) "ومشان"
+    ["percent"]=>
+    float(0.14789892503141)
+  }
+  [250]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7RAZP0001"
+    ["name"]=>
+    string(21) "لیزینگ رازی"
+    ["symbol"]=>
+    string(10) "ولراز"
+    ["percent"]=>
+    float(-0.021052631578947)
+  }
+  [251]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ARSP0001"
+    ["name"]=>
+    string(37) "سرمایه گذاری ارس صبا"
+    ["symbol"]=>
+    string(8) "وارس"
+    ["percent"]=>
+    float(0.53674597134443)
+  }
+  [252]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KHFZ0001"
+    ["name"]=>
+    string(41) "کاشی‌ وسرامیک‌ حافظ‌"
+    ["symbol"]=>
+    string(10) "کحافظ"
+    ["percent"]=>
+    float(0.088172043010753)
+  }
+  [253]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TKSM0001"
+    ["name"]=>
+    string(43) "تولیدی‌ کاشی‌ تکسرام‌"
+    ["symbol"]=>
+    string(10) "کترام"
+    ["percent"]=>
+    float(0.0088495575221239)
+  }
+  [254]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ALVN0001"
+    ["name"]=>
+    string(22) "کاشی‌ الوند"
+    ["symbol"]=>
+    string(10) "کلوند"
+    ["percent"]=>
+    float(0.11943458293978)
+  }
+  [255]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KPRS0001"
+    ["name"]=>
+    string(23) "کاشی‌ پارس‌"
+    ["symbol"]=>
+    string(10) "کپارس"
+    ["percent"]=>
+    float(0.28962923159592)
+  }
+  [256]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SINA0001"
+    ["name"]=>
+    string(53) "صنایع‌ کاشی‌ و سرامیک‌ سینا"
+    ["symbol"]=>
+    string(10) "کساوه"
+    ["percent"]=>
+    float(-0.058703030546462)
+  }
+  [257]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PSDP0001"
+    ["name"]=>
+    string(54) "توسعه بین المللی پدیده شاندیز"
+    ["symbol"]=>
+    string(8) "گشان"
+    ["percent"]=>
+    float(0.087642189119333)
+  }
+  [258]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3IMFZ0001"
+    ["name"]=>
+    string(56) "گروه سرمایه گذاری میراث فرهنگی"
+    ["symbol"]=>
+    string(8) "سمگا"
+    ["percent"]=>
+    float(0.17174037909248)
+  }
+  [259]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TMVD0001"
+    ["name"]=>
+    string(48) "تولیدمواداولیه‌داروپخش‌"
+    ["symbol"]=>
+    string(10) "دتماد"
+    ["percent"]=>
+    float(0.22291612281371)
+  }
+  [260]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ABDI0001"
+    ["name"]=>
+    string(60) "لابراتوارداروسازی‌  دکترعبیدی‌"
+    ["symbol"]=>
+    string(10) "دعبید"
+    ["percent"]=>
+    float(-0.24959883738533)
+  }
+  [261]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHFA0001"
+    ["name"]=>
+    string(38) "سرمایه گذاری شفادارو"
+    ["symbol"]=>
+    string(6) "شفا"
+    ["percent"]=>
+    float(0.70645923665259)
+  }
+  [262]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3KBCZ0001"
+    ["name"]=>
+    string(23) "شرکت کی بی سی"
+    ["symbol"]=>
+    string(14) "کی بی سی"
+    ["percent"]=>
+    float(0.12526041666667)
+  }
+  [263]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KIMI0001"
+    ["name"]=>
+    string(16) "کیمیدارو"
+    ["symbol"]=>
+    string(10) "دکیمی"
+    ["percent"]=>
+    float(0.26786907147629)
+  }
+  [264]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7DHVP0001"
+    ["name"]=>
+    string(12) "الحاوی"
+    ["symbol"]=>
+    string(10) "دحاوی"
+    ["percent"]=>
+    float(0.019716228952798)
+  }
+  [265]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DRZK0001"
+    ["name"]=>
+    string(27) "دارویی‌ رازک‌"
+    ["symbol"]=>
+    string(10) "درازک"
+    ["percent"]=>
+    float(0.13723776223776)
+  }
+  [266]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3IGCZ0001"
+    ["name"]=>
+    string(45) "تولید ژلاتین کپسول ایران"
+    ["symbol"]=>
+    string(12) "دکپسول"
+    ["percent"]=>
+    float(0.10110552763819)
+  }
+  [267]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3KSPZ0001"
+    ["name"]=>
+    string(40) "داروسازی کاسپین تامین"
+    ["symbol"]=>
+    string(12) "کاسپین"
+    ["percent"]=>
+    float(0.015471698113208)
+  }
+  [268]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DPAK0001"
+    ["name"]=>
+    string(38) "کارخانجات‌داروپخش‌"
+    ["symbol"]=>
+    string(8) "دارو"
+    ["percent"]=>
+    float(0.11268478357086)
+  }
+  [269]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3DTDZ0001"
+    ["name"]=>
+    string(36) "داروسازی تولید دارو"
+    ["symbol"]=>
+    string(12) "دتولید"
+    ["percent"]=>
+    float(0.64697006277161)
+  }
+  [270]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7GPHP0001"
+    ["name"]=>
+    string(34) "داروسازی شهید قاضی"
+    ["symbol"]=>
+    string(10) "دقاضی"
+    ["percent"]=>
+    float(0.29095979277997)
+  }
+  [271]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7THSP0001"
+    ["name"]=>
+    string(36) "داروسازی تهران شیمی"
+    ["symbol"]=>
+    string(12) "شتهران"
+    ["percent"]=>
+    float(-0.018694885361552)
+  }
+  [272]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR1ABDI0101"
+    ["name"]=>
+    string(60) "لابراتوارداروسازی‌  دکترعبیدی‌"
+    ["symbol"]=>
+    string(12) "دعبیدح"
+    ["percent"]=>
+    float(0.19188191881919)
+  }
+  [273]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1FTIR0001"
+    ["name"]=>
+    string(56) "فرآورده‌های‌ تزریقی‌ ایران‌"
+    ["symbol"]=>
+    string(8) "دفرا"
+    ["percent"]=>
+    float(0.25716877814859)
+  }
+  [274]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DSIN0001"
+    ["name"]=>
+    string(28) "داروسازی‌ سینا"
+    ["symbol"]=>
+    string(10) "دسینا"
+    ["percent"]=>
+    float(0.014822584156261)
+  }
+  [275]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR1DABO0101"
+    ["name"]=>
+    string(39) "داروسازی‌ ابوریحان‌"
+    ["symbol"]=>
+    string(12) "دابورح"
+    ["percent"]=>
+    float(0.041916167664671)
+  }
+  [276]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PDRO0001"
+    ["name"]=>
+    string(20) "پارس‌ دارو"
+    ["symbol"]=>
+    string(10) "دپارس"
+    ["percent"]=>
+    float(0.33018859232917)
+  }
+  [277]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DARO0001"
+    ["name"]=>
+    string(34) "داروپخش‌ (هلدینگ‌"
+    ["symbol"]=>
+    string(8) "وپخش"
+    ["percent"]=>
+    float(0.076012658227848)
+  }
+  [278]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ROZD0001"
+    ["name"]=>
+    string(34) "داروسازی‌ روزدارو"
+    ["symbol"]=>
+    string(8) "دروز"
+    ["percent"]=>
+    float(0.32909379968203)
+  }
+  [279]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR3DSNZ0101"
+    ["name"]=>
+    string(44) "داروسازی سبحان انکولوژی"
+    ["symbol"]=>
+    string(14) "دسانکوح"
+    ["percent"]=>
+    float(0.60612799604645)
+  }
+  [280]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7DSHP0001"
+    ["name"]=>
+    string(19) "شیرین دارو"
+    ["symbol"]=>
+    string(10) "دشیری"
+    ["percent"]=>
+    float(0.045435385468663)
+  }
+  [281]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MRAM0001"
+    ["name"]=>
+    string(28) "تولیدی‌مهرام‌"
+    ["symbol"]=>
+    string(10) "غمهرا"
+    ["percent"]=>
+    float(-0.021231856104442)
+  }
+  [282]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO5GSKS0001"
+    ["name"]=>
+    string(11) "گز سکه"
+    ["symbol"]=>
+    string(6) "غگز"
+    ["percent"]=>
+    float(0.023098591549296)
+  }
+  [283]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MNMH0001"
+    ["name"]=>
+    string(45) "ماشین‌سازی‌نیرومحرکه‌"
+    ["symbol"]=>
+    string(12) "تمحرکه"
+    ["percent"]=>
+    float(0.79010820692722)
+  }
+  [284]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PDRP0001"
+    ["name"]=>
+    string(27) "پتروشیمی داراب"
+    ["symbol"]=>
+    string(10) "داراب"
+    ["percent"]=>
+    float(0.26428571428571)
+  }
+  [285]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PFSP0001"
+    ["name"]=>
+    string(23) "پتروشیمی فسا"
+    ["symbol"]=>
+    string(6) "فسا"
+    ["percent"]=>
+    float(0.15288788221971)
+  }
+  [286]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1LEAB0001"
+    ["name"]=>
+    string(19) "لعابیران‌"
+    ["symbol"]=>
+    string(10) "شلعاب"
+    ["percent"]=>
+    float(0.21387755102041)
+  }
+  [287]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHFS0001"
+    ["name"]=>
+    string(43) "صنایع‌ شیمیایی‌ فارس‌"
+    ["symbol"]=>
+    string(10) "شفارس"
+    ["percent"]=>
+    float(0.17150589422504)
+  }
+  [288]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR7TJMP0101"
+    ["name"]=>
+    string(45) "صنایع پتروشیمی تخت جمشید"
+    ["symbol"]=>
+    string(8) "شجمح"
+    ["percent"]=>
+    float(-0.031719532554257)
+  }
+  [289]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3CHPZ0001"
+    ["name"]=>
+    string(15) "کلر پارس"
+    ["symbol"]=>
+    string(6) "کلر"
+    ["percent"]=>
+    float(0.14977458295007)
+  }
+  [290]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DODE0001"
+    ["name"]=>
+    string(37) "دوده‌ صنعتی‌ پارس‌"
+    ["symbol"]=>
+    string(8) "شدوص"
+    ["percent"]=>
+    float(0.027625497151457)
+  }
+  [291]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PJHP0001"
+    ["name"]=>
+    string(25) "پتروشیمی جهرم"
+    ["symbol"]=>
+    string(8) "جهرم"
+    ["percent"]=>
+    float(0.23231939163498)
+  }
+  [292]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3TPSZ0001"
+    ["name"]=>
+    string(39) "توکا رنگ فولاد سپاهان"
+    ["symbol"]=>
+    string(10) "شتوکا"
+    ["percent"]=>
+    float(0.02261832736073)
+  }
+  [293]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1JPPC0001"
+    ["name"]=>
+    string(42) "پلی پروپیلن جم - جم پیلن"
+    ["symbol"]=>
+    string(13) "جم پیلن"
+    ["percent"]=>
+    float(0.30960588302884)
+  }
+  [294]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BSRZ0001"
+    ["name"]=>
+    string(49) "تولیدات پتروشیمی قائد بصیر"
+    ["symbol"]=>
+    string(10) "شبصیر"
+    ["percent"]=>
+    float(0.41686719636776)
+  }
+  [295]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PARS0001"
+    ["name"]=>
+    string(25) "پتروشیمی پارس"
+    ["symbol"]=>
+    string(8) "پارس"
+    ["percent"]=>
+    float(0.26909688648231)
+  }
+  [296]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3PZGZ0001"
+    ["name"]=>
+    string(27) "پتروشیمی زاگرس"
+    ["symbol"]=>
+    string(10) "زاگرس"
+    ["percent"]=>
+    float(0.52393252262961)
+  }
+  [297]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SHLP0001"
+    ["name"]=>
+    string(43) "کود شیمیایی اوره لردگان"
+    ["symbol"]=>
+    string(8) "شلرد"
+    ["percent"]=>
+    float(0.64645922746781)
+  }
+  [298]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KRSN0001"
+    ["name"]=>
+    string(29) "پتروشیمی خراسان"
+    ["symbol"]=>
+    string(12) "خراسان"
+    ["percent"]=>
+    float(0.5833904109589)
+  }
+  [299]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1AMLH0001"
+    ["name"]=>
+    string(42) "معدنی‌ املاح‌  ایران‌"
+    ["symbol"]=>
+    string(10) "شاملا"
+    ["percent"]=>
+    float(0.59462206712985)
+  }
+  [300]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PKBP0001"
+    ["name"]=>
+    string(33) "پتروشیمی امیرکبیر"
+    ["symbol"]=>
+    string(10) "شکبیر"
+    ["percent"]=>
+    float(-0.013663068725236)
+  }
+  [301]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1CRBN0001"
+    ["name"]=>
+    string(25) "کربن‌ ایران‌"
+    ["symbol"]=>
+    string(10) "شکربن"
+    ["percent"]=>
+    float(0.47843720751638)
+  }
+  [302]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3SYNZ0001"
+    ["name"]=>
+    string(36) "صنایع بهداشتی ساینا"
+    ["symbol"]=>
+    string(10) "ساینا"
+    ["percent"]=>
+    float(0.17845954950027)
+  }
+  [303]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PRDZ0001"
+    ["name"]=>
+    string(27) "پتروشیمی پردیس"
+    ["symbol"]=>
+    string(10) "شپدیس"
+    ["percent"]=>
+    float(0.52882915705245)
+  }
+  [304]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BMPS0001"
+    ["name"]=>
+    string(56) "بین‌ المللی‌ محصولات‌  پارس‌"
+    ["symbol"]=>
+    string(10) "شپارس"
+    ["percent"]=>
+    float(-0.0046766081355334)
+  }
+  [305]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHOY0001"
+    ["name"]=>
+    string(51) "مدیریت صنعت شوینده ت.ص.بهشهر"
+    ["symbol"]=>
+    string(12) "شوینده"
+    ["percent"]=>
+    float(0.060656571859702)
+  }
+  [306]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PFAN0001"
+    ["name"]=>
+    string(31) "پتروشیمی فناوران"
+    ["symbol"]=>
+    string(6) "شفن"
+    ["percent"]=>
+    float(0.53773768893223)
+  }
+  [307]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NKOL0001"
+    ["name"]=>
+    string(14) "نیروکلر"
+    ["symbol"]=>
+    string(8) "شکلر"
+    ["percent"]=>
+    float(0.28483184625944)
+  }
+  [308]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TRNS0001"
+    ["name"]=>
+    string(28) "ایران‌ ترانسفو"
+    ["symbol"]=>
+    string(12) "بترانس"
+    ["percent"]=>
+    float(0.55891577060932)
+  }
+  [309]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MOTJ0001"
+    ["name"]=>
+    string(15) "موتوژن‌"
+    ["symbol"]=>
+    string(10) "بموتو"
+    ["percent"]=>
+    float(0.40497212841274)
+  }
+  [310]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KALZ0001"
+    ["name"]=>
+    string(22) "کابل‌ البرز"
+    ["symbol"]=>
+    string(10) "بالبر"
+    ["percent"]=>
+    float(0.074429962261758)
+  }
+  [311]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NIRO0001"
+    ["name"]=>
+    string(21) "نیروترانس‌"
+    ["symbol"]=>
+    string(10) "بنیرو"
+    ["percent"]=>
+    float(0.2213862654074)
+  }
+  [312]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SWIC0001"
+    ["name"]=>
+    string(22) "پارس‌سویچ‌"
+    ["symbol"]=>
+    string(10) "بسویچ"
+    ["percent"]=>
+    float(-0.058799457786644)
+  }
+  [313]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7NIRP0001"
+    ["name"]=>
+    string(21) "نیرو سرمایه"
+    ["symbol"]=>
+    string(8) "نیرو"
+    ["percent"]=>
+    float(0.17461794019934)
+  }
+  [314]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1JOSH0001"
+    ["name"]=>
+    string(34) "صنایع‌جوشکاب‌یزد"
+    ["symbol"]=>
+    string(8) "بکاب"
+    ["percent"]=>
+    float(0.16776556776557)
+  }
+  [315]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1FIBR0001"
+    ["name"]=>
+    string(22) "فیبر ایران‌"
+    ["symbol"]=>
+    string(10) "چفیبر"
+    ["percent"]=>
+    float(0.60555320050869)
+  }
+  [316]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SSIN0001"
+    ["name"]=>
+    string(44) "س. صنایع‌شیمیایی‌ایران"
+    ["symbol"]=>
+    string(10) "شیران"
+    ["percent"]=>
+    float(0.76442687747036)
+  }
+  [317]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PARK0001"
+    ["name"]=>
+    string(27) "پتروشیمی شازند"
+    ["symbol"]=>
+    string(10) "شاراک"
+    ["percent"]=>
+    float(0.19646932474158)
+  }
+  [318]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PASH0001"
+    ["name"]=>
+    string(30) "گروه صنعتی پاکشو"
+    ["symbol"]=>
+    string(10) "پاکشو"
+    ["percent"]=>
+    float(0.35157894736842)
+  }
+  [319]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PASN0001"
+    ["name"]=>
+    string(42) "گسترش نفت و گاز پارسیان"
+    ["symbol"]=>
+    string(12) "پارسان"
+    ["percent"]=>
+    float(0.67978192665741)
+  }
+  [320]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PTAP0001"
+    ["name"]=>
+    string(51) "س. نفت و گاز و پتروشیمی تأمین"
+    ["symbol"]=>
+    string(12) "تاپیکو"
+    ["percent"]=>
+    float(0.79867046533713)
+  }
+  [321]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ZNJP0001"
+    ["name"]=>
+    string(45) "صنایع کشاورزی وکود زنجان"
+    ["symbol"]=>
+    string(10) "زنجان"
+    ["percent"]=>
+    float(0.31570076494231)
+  }
+  [322]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GARN0001"
+    ["name"]=>
+    string(26) "پدیده شیمی قرن"
+    ["symbol"]=>
+    string(6) "قرن"
+    ["percent"]=>
+    float(0.19014084507042)
+  }
+  [323]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PAKS0001"
+    ["name"]=>
+    string(15) "پاکسان‌"
+    ["symbol"]=>
+    string(12) "شپاکسا"
+    ["percent"]=>
+    float(0.15540701838148)
+  }
+  [324]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3PGHZ0001"
+    ["name"]=>
+    string(25) "پتروشیمی غدیر"
+    ["symbol"]=>
+    string(10) "شغدیر"
+    ["percent"]=>
+    float(0.16944517371139)
+  }
+  [325]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7TJMP0001"
+    ["name"]=>
+    string(45) "صنایع پتروشیمی تخت جمشید"
+    ["symbol"]=>
+    string(6) "شجم"
+    ["percent"]=>
+    float(-0.11954342125559)
+  }
+  [326]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PETR0001"
+    ["name"]=>
+    string(56) "سرمایه‌گذاری صنایع پتروشیمی‌"
+    ["symbol"]=>
+    string(10) "وپترو"
+    ["percent"]=>
+    float(0.38655862726406)
+  }
+  [327]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GTSH0001"
+    ["name"]=>
+    string(13) "گلتاش‌"
+    ["symbol"]=>
+    string(6) "شگل"
+    ["percent"]=>
+    float(0.0075220598871691)
+  }
+  [328]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3PMRZ0001"
+    ["name"]=>
+    string(27) "پتروشیمی مارون"
+    ["symbol"]=>
+    string(10) "مارون"
+    ["percent"]=>
+    float(0.27091864701899)
+  }
+  [329]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PKHA0001"
+    ["name"]=>
+    string(31) "پتروشیمی‌ خارک‌"
+    ["symbol"]=>
+    string(10) "شخارک"
+    ["percent"]=>
+    float(0.55778284715818)
+  }
+  [330]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3PEGZ0001"
+    ["name"]=>
+    string(44) "شیرپاستوریزه پگاه گیلان"
+    ["symbol"]=>
+    string(10) "غگیلا"
+    ["percent"]=>
+    float(0.074489123269611)
+  }
+  [331]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHPZ0001"
+    ["name"]=>
+    string(46) "‌پگاه‌آذربایجان‌غربی‌"
+    ["symbol"]=>
+    string(10) "غشاذر"
+    ["percent"]=>
+    float(0.079941002949853)
+  }
+  [332]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1LPAK0001"
+    ["name"]=>
+    string(25) "لبنیات‌ پاک‌"
+    ["symbol"]=>
+    string(8) "غپاک"
+    ["percent"]=>
+    float(1.1149373546403)
+  }
+  [333]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7NPMP0001"
+    ["name"]=>
+    string(24) "نوش پونه مشهد"
+    ["symbol"]=>
+    string(10) "غپونه"
+    ["percent"]=>
+    float(0.15822939594033)
+  }
+  [334]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3PKDZ0001"
+    ["name"]=>
+    string(12) "پاکدیس"
+    ["symbol"]=>
+    string(8) "غدیس"
+    ["percent"]=>
+    float(-0.018793103448276)
+  }
+  [335]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SPKH0001"
+    ["name"]=>
+    string(53) "شیرپاستوریزه‌پگاه‌خراسان‌"
+    ["symbol"]=>
+    string(8) "غشان"
+    ["percent"]=>
+    float(0.07750048444177)
+  }
+  [336]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SPPE0001"
+    ["name"]=>
+    string(53) "شیرپاستوریزه‌پگاه‌اصفهان‌"
+    ["symbol"]=>
+    string(10) "غشصفا"
+    ["percent"]=>
+    float(-0.075996374162987)
+  }
+  [337]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3GHPZ0001"
+    ["name"]=>
+    string(43) "شیر پگاه آذربایجان شرقی"
+    ["symbol"]=>
+    string(10) "غپآذر"
+    ["percent"]=>
+    float(-0.056692515945487)
+  }
+  [338]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7GKHP0001"
+    ["name"]=>
+    string(56) "کشت وصنعت بهاران گلبهار خراسان"
+    ["symbol"]=>
+    string(10) "غبهار"
+    ["percent"]=>
+    float(0.027380952380952)
+  }
+  [339]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3TIGZ0001"
+    ["name"]=>
+    string(47) "گروه کارخانجات صنعتی تبرک"
+    ["symbol"]=>
+    string(8) "تبرک"
+    ["percent"]=>
+    float(0.32935251798561)
+  }
+  [340]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PIAZ0001"
+    ["name"]=>
+    string(32) "کشت‌وصنعت‌پیاذر"
+    ["symbol"]=>
+    string(8) "غاذر"
+    ["percent"]=>
+    float(-0.0051633158701038)
+  }
+  [341]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KDPS0001"
+    ["name"]=>
+    string(35) "خوراک‌ دام‌ پارس‌"
+    ["symbol"]=>
+    string(8) "غدام"
+    ["percent"]=>
+    float(0.13353822299748)
+  }
+  [342]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1CHCH0001"
+    ["name"]=>
+    string(41) "کشت‌ و صنعت‌ چین‌ چین"
+    ["symbol"]=>
+    string(8) "غچین"
+    ["percent"]=>
+    float(0.48439674021069)
+  }
+  [343]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7MINP0001"
+    ["name"]=>
+    string(19) "صنعتی مینو"
+    ["symbol"]=>
+    string(10) "غصینو"
+    ["percent"]=>
+    float(-0.7430900252671)
+  }
+  [344]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DMOR0001"
+    ["name"]=>
+    string(23) "دشت‌ مرغاب‌"
+    ["symbol"]=>
+    string(8) "غدشت"
+    ["percent"]=>
+    float(0.08565632278909)
+  }
+  [345]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BENN0001"
+    ["name"]=>
+    string(27) "بهنوش‌ ایران‌"
+    ["symbol"]=>
+    string(12) "غبهنوش"
+    ["percent"]=>
+    float(0.40649235541768)
+  }
+  [346]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3PGPZ0001"
+    ["name"]=>
+    string(51) "شیر پاستوریزه پگاه گلپایگان"
+    ["symbol"]=>
+    string(10) "غگلپا"
+    ["percent"]=>
+    float(0.087666666666667)
+  }
+  [347]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO5NSKS0001"
+    ["name"]=>
+    string(52) "مجتمع تولیدی نیلی صنعت کرمان"
+    ["symbol"]=>
+    string(10) "غنیلی"
+    ["percent"]=>
+    float(-0.015526709935097)
+  }
+  [348]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7KHDP0001"
+    ["name"]=>
+    string(49) "اقتصادی و خودکفایی آزادگان"
+    ["symbol"]=>
+    string(12) "خودکفا"
+    ["percent"]=>
+    float(0.12414314754408)
+  }
+  [349]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1A0449981"
+    ["name"]=>
+    string(44) "زعفران9908نگین طلای سرخ(پ)"
+    ["symbol"]=>
+    string(14) "زعف9908پ10"
+    ["percent"]=>
+    float(0.48910544180445)
+  }
+  [350]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3PGLZ0001"
+    ["name"]=>
+    string(47) "شیر پاستوریزه پگاه گلستان"
+    ["symbol"]=>
+    string(12) "غگلستا"
+    ["percent"]=>
+    float(0.0063852018110754)
+  }
+  [351]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SPRP0001"
+    ["name"]=>
+    string(17) "شوکو پارس"
+    ["symbol"]=>
+    string(10) "غشوکو"
+    ["percent"]=>
+    float(-0.50726493145721)
+  }
+  [352]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GORJ0001"
+    ["name"]=>
+    string(29) "بیسکویت‌ گرجی‌"
+    ["symbol"]=>
+    string(10) "غگرجی"
+    ["percent"]=>
+    float(0.13248825686893)
+  }
+  [353]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3VITZ0001"
+    ["name"]=>
+    string(12) "ویتانا"
+    ["symbol"]=>
+    string(10) "غویتا"
+    ["percent"]=>
+    float(0.12176721481226)
+  }
+  [354]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHSI0001"
+    ["name"]=>
+    string(38) "صنایع‌شیمیایی‌سینا"
+    ["symbol"]=>
+    string(10) "شسینا"
+    ["percent"]=>
+    float(0.60745240210319)
+  }
+  [355]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PTAP0791"
+    ["name"]=>
+    string(51) "س. نفت و گاز و پتروشیمی تأمین"
+    ["symbol"]=>
+    string(12) "ضپیک7022"
+    ["percent"]=>
+    float(2.5170603674541)
+  }
+  [356]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3APOZ0001"
+    ["name"]=>
+    string(30) "پلیمر آریا ساسول"
+    ["symbol"]=>
+    string(8) "آریا"
+    ["percent"]=>
+    float(0.20352115329072)
+  }
+  [357]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PESP0001"
+    ["name"]=>
+    string(35) "پتروشیمی‌ اصفهان‌"
+    ["symbol"]=>
+    string(10) "شصفها"
+    ["percent"]=>
+    float(0.54671827702952)
+  }
+  [358]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PSHZ0001"
+    ["name"]=>
+    string(29) "پتروشیمی‌شیراز"
+    ["symbol"]=>
+    string(10) "شیراز"
+    ["percent"]=>
+    float(0.3486884527095)
+  }
+  [359]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7TOPP0001"
+    ["name"]=>
+    string(20) "تولی‌پرس‌"
+    ["symbol"]=>
+    string(10) "شتولی"
+    ["percent"]=>
+    float(0.23364637305699)
+  }
+  [360]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3SDFZ0001"
+    ["name"]=>
+    string(26) "صنعتی دوده فام"
+    ["symbol"]=>
+    string(8) "شصدف"
+    ["percent"]=>
+    float(0.10030367166651)
+  }
+  [361]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7TSAP0001"
+    ["name"]=>
+    string(40) "تولید سموم‌ علف‌ کش‌"
+    ["symbol"]=>
+    string(6) "شسم"
+    ["percent"]=>
+    float(0.065397951778082)
+  }
+  [362]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7KAFP0001"
+    ["name"]=>
+    string(7) "کف‌"
+    ["symbol"]=>
+    string(6) "شکف"
+    ["percent"]=>
+    float(0.24373423910247)
+  }
+  [363]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SHEP0001"
+    ["name"]=>
+    string(25) "شیمیایی رنگین"
+    ["symbol"]=>
+    string(10) "شرنگی"
+    ["percent"]=>
+    float(-0.05790837489886)
+  }
+  [364]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IROFPASN5481"
+    ["name"]=>
+    string(42) "گسترش نفت و گاز پارسیان"
+    ["symbol"]=>
+    string(12) "طسان7050"
+    ["percent"]=>
+    float(-0.88366666666667)
+  }
+  [365]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PTAP0891"
+    ["name"]=>
+    string(51) "س. نفت و گاز و پتروشیمی تأمین"
+    ["symbol"]=>
+    string(12) "ضپیک7032"
+    ["percent"]=>
+    int(0)
+  }
+  [366]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BHPZ0001"
+    ["name"]=>
+    string(21) "صنعتی بهپاک"
+    ["symbol"]=>
+    string(10) "بهپاک"
+    ["percent"]=>
+    float(0.20995)
+  }
+  [367]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GCOZ0001"
+    ["name"]=>
+    string(19) "گلوکوزان‌"
+    ["symbol"]=>
+    string(6) "غگل"
+    ["percent"]=>
+    float(0.26129426129426)
+  }
+  [368]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SLMN0001"
+    ["name"]=>
+    string(18) "‌سالمین‌"
+    ["symbol"]=>
+    string(10) "غسالم"
+    ["percent"]=>
+    float(-0.0055531824006835)
+  }
+  [369]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MINO0001"
+    ["name"]=>
+    string(20) "پارس‌ مینو"
+    ["symbol"]=>
+    string(10) "غپینو"
+    ["percent"]=>
+    float(-0.083917665686496)
+  }
+  [370]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TSBE0001"
+    ["name"]=>
+    string(54) "توسعه‌ صنایع‌ بهشهر(هلدینگ‌"
+    ["symbol"]=>
+    string(10) "وبشهر"
+    ["percent"]=>
+    float(0.1431543903454)
+  }
+  [371]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3SHHZ0001"
+    ["name"]=>
+    string(49) "کشت و صنعت شهداب ناب خراسان"
+    ["symbol"]=>
+    string(12) "غشهداب"
+    ["percent"]=>
+    float(-0.16491511721908)
+  }
+  [372]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHAD0001"
+    ["name"]=>
+    string(20) "شهد ایران‌"
+    ["symbol"]=>
+    string(8) "غشهد"
+    ["percent"]=>
+    float(0.0045200026985091)
+  }
+  [373]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SBEH0001"
+    ["name"]=>
+    string(24) "صنعتی‌ بهشهر"
+    ["symbol"]=>
+    string(10) "غبشهر"
+    ["percent"]=>
+    float(0.11578947368421)
+  }
+  [374]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3MNOZ0001"
+    ["name"]=>
+    string(46) "شرکت صنایع غذایی مینو شرق"
+    ["symbol"]=>
+    string(10) "غمینو"
+    ["percent"]=>
+    float(0.17724170027924)
+  }
+  [375]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MRGN0001"
+    ["name"]=>
+    string(19) "مارگارین‌"
+    ["symbol"]=>
+    string(10) "غمارگ"
+    ["percent"]=>
+    float(-0.086082339629211)
+  }
+  [376]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7CMKP0001"
+    ["name"]=>
+    string(36) "سیمان ممتازان کرمان"
+    ["symbol"]=>
+    string(10) "سمتاز"
+    ["percent"]=>
+    float(0.057124962916571)
+  }
+  [377]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHZG0001"
+    ["name"]=>
+    string(30) "سیمان‌هرمزگان‌"
+    ["symbol"]=>
+    string(10) "سهرمز"
+    ["percent"]=>
+    float(0.6184051771416)
+  }
+  [378]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SGRB0001"
+    ["name"]=>
+    string(22) "سیمان‌غرب‌"
+    ["symbol"]=>
+    string(8) "سغرب"
+    ["percent"]=>
+    float(0.17920493845525)
+  }
+  [379]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BPAR2171"
+    ["name"]=>
+    string(28) "بانک‌پارسیان‌"
+    ["symbol"]=>
+    string(12) "ضپاس7016"
+    ["percent"]=>
+    float(-0.025012506253127)
+  }
+  [380]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2091"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8008"
+    ["percent"]=>
+    float(2.5)
+  }
+  [381]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BPAR2191"
+    ["name"]=>
+    string(28) "بانک‌پارسیان‌"
+    ["symbol"]=>
+    string(12) "ضپاس7018"
+    ["percent"]=>
+    float(0.0033783783783784)
+  }
+  [382]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2561"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7023"
+    ["percent"]=>
+    float(0.39251523063534)
+  }
+  [383]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2141"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8013"
+    ["percent"]=>
+    float(2.1578947368421)
+  }
+  [384]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2121"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8011"
+    ["percent"]=>
+    int(5)
+  }
+  [385]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BMLT0981"
+    ["name"]=>
+    string(15) "بانک ملت"
+    ["symbol"]=>
+    string(12) "ضملت8037"
+    ["percent"]=>
+    float(0.8796992481203)
+  }
+  [386]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BPAR2211"
+    ["name"]=>
+    string(28) "بانک‌پارسیان‌"
+    ["symbol"]=>
+    string(12) "ضپاس7020"
+    ["percent"]=>
+    float(0.192)
+  }
+  [387]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BMLT0901"
+    ["name"]=>
+    string(15) "بانک ملت"
+    ["symbol"]=>
+    string(12) "ضملت8032"
+    ["percent"]=>
+    float(1.2916666666667)
+  }
+  [388]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BMLT0911"
+    ["name"]=>
+    string(15) "بانک ملت"
+    ["symbol"]=>
+    string(12) "ضملت8033"
+    ["percent"]=>
+    int(2)
+  }
+  [389]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BPAR2151"
+    ["name"]=>
+    string(28) "بانک‌پارسیان‌"
+    ["symbol"]=>
+    string(12) "ضپاس7014"
+    ["percent"]=>
+    int(1)
+  }
+  [390]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BMLT0831"
+    ["name"]=>
+    string(15) "بانک ملت"
+    ["symbol"]=>
+    string(12) "ضملت8025"
+    ["percent"]=>
+    float(0.73886956521739)
+  }
+  [391]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BPAR2011"
+    ["name"]=>
+    string(28) "بانک‌پارسیان‌"
+    ["symbol"]=>
+    string(12) "ضپاس7000"
+    ["percent"]=>
+    float(0.60714285714286)
+  }
+  [392]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2491"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7016"
+    ["percent"]=>
+    float(1.3444444444444)
+  }
+  [393]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2501"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7017"
+    ["percent"]=>
+    float(1.0841683366733)
+  }
+  [394]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2531"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7020"
+    ["percent"]=>
+    float(1.0153846153846)
+  }
+  [395]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2101"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8009"
+    ["percent"]=>
+    float(2.125)
+  }
+  [396]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BPAR2161"
+    ["name"]=>
+    string(28) "بانک‌پارسیان‌"
+    ["symbol"]=>
+    string(12) "ضپاس7015"
+    ["percent"]=>
+    float(-0.15094339622642)
+  }
+  [397]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BPAR2221"
+    ["name"]=>
+    string(28) "بانک‌پارسیان‌"
+    ["symbol"]=>
+    string(12) "ضپاس7021"
+    ["percent"]=>
+    int(0)
+  }
+  [398]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2481"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7015"
+    ["percent"]=>
+    float(1.7825537294564)
+  }
+  [399]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2521"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7019"
+    ["percent"]=>
+    float(1.8951486697966)
+  }
+  [400]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2151"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8014"
+    ["percent"]=>
+    float(2.5851063829787)
+  }
+  [401]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BMLT0851"
+    ["name"]=>
+    string(15) "بانک ملت"
+    ["symbol"]=>
+    string(12) "ضملت8027"
+    ["percent"]=>
+    float(0.018157135584592)
+  }
+  [402]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2571"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7024"
+    ["percent"]=>
+    float(0.47058823529412)
+  }
+  [403]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR3ASKZ0101"
+    ["name"]=>
+    string(21) "اعتباری ملل"
+    ["symbol"]=>
+    string(10) "ومللح"
+    ["percent"]=>
+    float(0.035928143712575)
+  }
+  [404]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KRAF0001"
+    ["name"]=>
+    string(31) "بانک‌ کارآفرین‌"
+    ["symbol"]=>
+    string(8) "وکار"
+    ["percent"]=>
+    float(0.11358712472919)
+  }
+  [405]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7BSHP0001"
+    ["name"]=>
+    string(15) "بانک شهر"
+    ["symbol"]=>
+    string(8) "وشهر"
+    ["percent"]=>
+    float(0.57879200726612)
+  }
+  [406]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7AYNP0001"
+    ["name"]=>
+    string(20) "بانک  آینده"
+    ["symbol"]=>
+    string(10) "وآیند"
+    ["percent"]=>
+    float(0.61124508186318)
+  }
+  [407]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7IBKZ0001"
+    ["name"]=>
+    string(21) "بانک سرمایه"
+    ["symbol"]=>
+    string(10) "سمایه"
+    ["percent"]=>
+    float(0.70086313193588)
+  }
+  [408]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SALP0001"
+    ["name"]=>
+    string(39) "بانک قرض الحسنه رسالت"
+    ["symbol"]=>
+    string(10) "وسالت"
+    ["percent"]=>
+    float(-0.014821676702177)
+  }
+  [409]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2551"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7022"
+    ["percent"]=>
+    float(2.1630434782609)
+  }
+  [410]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2211"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8020"
+    ["percent"]=>
+    int(0)
+  }
+  [411]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2201"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8019"
+    ["percent"]=>
+    int(0)
+  }
+  [412]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2591"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7026"
+    ["percent"]=>
+    float(1.28)
+  }
+  [413]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2111"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8010"
+    ["percent"]=>
+    float(3.78)
+  }
+  [414]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2161"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8015"
+    ["percent"]=>
+    float(3.425)
+  }
+  [415]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2511"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7018"
+    ["percent"]=>
+    float(1.7576470588235)
+  }
+  [416]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2131"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8012"
+    ["percent"]=>
+    float(5.0790273556231)
+  }
+  [417]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2191"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8018"
+    ["percent"]=>
+    float(0.36363636363636)
+  }
+  [418]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2171"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8016"
+    ["percent"]=>
+    float(0.25)
+  }
+  [419]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BPAR2181"
+    ["name"]=>
+    string(28) "بانک‌پارسیان‌"
+    ["symbol"]=>
+    string(12) "ضپاس7017"
+    ["percent"]=>
+    float(-0.10578947368421)
+  }
+  [420]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BSDR2181"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "ضصاد8017"
+    ["percent"]=>
+    float(0.34782608695652)
+  }
+  [421]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BMLT0961"
+    ["name"]=>
+    string(15) "بانک ملت"
+    ["symbol"]=>
+    string(12) "ضملت8035"
+    ["percent"]=>
+    float(0.66)
+  }
+  [422]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BTEJ2541"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "ضجار7021"
+    ["percent"]=>
+    float(0.86123032904149)
+  }
+  [423]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9BMLT0971"
+    ["name"]=>
+    string(15) "بانک ملت"
+    ["symbol"]=>
+    string(12) "ضملت8036"
+    ["percent"]=>
+    float(0.93507972665148)
+  }
+  [424]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3TKMZ0001"
+    ["name"]=>
+    string(39) "شرکت بیمه اتکایی امین"
+    ["symbol"]=>
+    string(10) "اتکام"
+    ["percent"]=>
+    float(0.45766871165644)
+  }
+  [425]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BKHZ0001"
+    ["name"]=>
+    string(27) "بانک خاورمیانه"
+    ["symbol"]=>
+    string(10) "وخاور"
+    ["percent"]=>
+    float(0.29377580669827)
+  }
+  [426]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3HRLZ0001"
+    ["name"]=>
+    string(23) "ریل پردازسیر"
+    ["symbol"]=>
+    string(8) "حریل"
+    ["percent"]=>
+    float(0.42181764792248)
+  }
+  [427]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BLSZ0001"
+    ["name"]=>
+    string(56) "مهندسی ساختمان تاسیسات راه آهن"
+    ["symbol"]=>
+    string(10) "بالاس"
+    ["percent"]=>
+    float(0.3409993316822)
+  }
+  [428]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7MILP0001"
+    ["name"]=>
+    string(57) "توسعه بازرگانی آهن وفولادمیلاد"
+    ["symbol"]=>
+    string(10) "بمیلا"
+    ["percent"]=>
+    float(0.46937182988685)
+  }
+  [429]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3IOMZ0001"
+    ["name"]=>
+    string(50) "صنایع ماشین های اداری ایران"
+    ["symbol"]=>
+    string(12) "مادیرا"
+    ["percent"]=>
+    float(0.26015098409275)
+  }
+  [430]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3KHZZ0001"
+    ["name"]=>
+    string(34) "کشتیرانی دریای خزر"
+    ["symbol"]=>
+    string(8) "حخزر"
+    ["percent"]=>
+    float(0.026797637771908)
+  }
+  [431]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ARAP0001"
+    ["name"]=>
+    string(25) "کشتیرانی آریا"
+    ["symbol"]=>
+    string(10) "حاریا"
+    ["percent"]=>
+    float(0.2216091954023)
+  }
+  [432]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1HFRS0001"
+    ["name"]=>
+    string(54) "حمل و نقل بین المللی خلیج فارس"
+    ["symbol"]=>
+    string(10) "حفارس"
+    ["percent"]=>
+    float(0.028415300546448)
+  }
+  [433]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3TORZ0001"
+    ["name"]=>
+    string(14) "توکاریل"
+    ["symbol"]=>
+    string(10) "توریل"
+    ["percent"]=>
+    float(0.14046532674686)
+  }
+  [434]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR1KSHJ0101"
+    ["name"]=>
+    string(53) "کشتیرانی جمهوری اسلامی ایران"
+    ["symbol"]=>
+    string(12) "حکشتیح"
+    ["percent"]=>
+    float(1.0341312056738)
+  }
+  [435]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TAYD0001"
+    ["name"]=>
+    string(37) "تایدواترخاورمیانه‌"
+    ["symbol"]=>
+    string(10) "حتاید"
+    ["percent"]=>
+    float(0.29170731707317)
+  }
+  [436]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SDRP0001"
+    ["name"]=>
+    string(43) "صنعتی‌ دریایی‌ ایران‌"
+    ["symbol"]=>
+    string(10) "خصدرا"
+    ["percent"]=>
+    float(-0.068829593693147)
+  }
+  [437]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ASAZ0001"
+    ["name"]=>
+    string(22) "آسیا سیر ارس"
+    ["symbol"]=>
+    string(8) "حآسا"
+    ["percent"]=>
+    float(0.027919407894737)
+  }
+  [438]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3HPRZ0001"
+    ["name"]=>
+    string(51) "توسعه حمل و نقل ریلی پارسیان"
+    ["symbol"]=>
+    string(12) "حپارسا"
+    ["percent"]=>
+    float(0.17050176041649)
+  }
+  [439]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KSHJ0001"
+    ["name"]=>
+    string(53) "کشتیرانی جمهوری اسلامی ایران"
+    ["symbol"]=>
+    string(10) "حکشتی"
+    ["percent"]=>
+    float(0.52734416108324)
+  }
+  [440]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1HTOK0001"
+    ["name"]=>
+    string(28) "حمل‌ونقل‌توکا"
+    ["symbol"]=>
+    string(10) "حتوکا"
+    ["percent"]=>
+    float(0.047319932998325)
+  }
+  [441]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3RSKZ0001"
+    ["name"]=>
+    string(22) "ریل سیر کوثر"
+    ["symbol"]=>
+    string(8) "حسیر"
+    ["percent"]=>
+    float(0.38122448979592)
+  }
+  [442]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3SMBZ0001"
+    ["name"]=>
+    string(56) "توسعه خدمات دریایی وبندری سینا"
+    ["symbol"]=>
+    string(10) "حسینا"
+    ["percent"]=>
+    float(0.449)
+  }
+  [443]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1HJPT0001"
+    ["name"]=>
+    string(52) "حمل و نقل پتروشیمی( سهامی عام"
+    ["symbol"]=>
+    string(10) "حپترو"
+    ["percent"]=>
+    float(0.017444843509492)
+  }
+  [444]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7RAHP0001"
+    ["name"]=>
+    string(42) "رهشاد سپاهان (سهامی عام"
+    ["symbol"]=>
+    string(10) "حرهشا"
+    ["percent"]=>
+    float(0.19940442320094)
+  }
+  [445]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7BNDP0001"
+    ["name"]=>
+    string(54) "دریایی و کشتیرانی خط دریابندر"
+    ["symbol"]=>
+    string(10) "حبندر"
+    ["percent"]=>
+    float(-0.1259771419726)
+  }
+  [446]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PGIP0001"
+    ["name"]=>
+    string(53) "س. پتروشیمی ساختمان خلیج فارس"
+    ["symbol"]=>
+    string(8) "وپسا"
+    ["percent"]=>
+    float(0.31334702258727)
+  }
+  [447]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7KARP0001"
+    ["name"]=>
+    string(25) "بیمه کارآفرین"
+    ["symbol"]=>
+    string(10) "وآفری"
+    ["percent"]=>
+    float(0.2111142938986)
+  }
+  [448]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BDAN0001"
+    ["name"]=>
+    string(17) "بیمه دانا"
+    ["symbol"]=>
+    string(8) "دانا"
+    ["percent"]=>
+    float(0.35230531656739)
+  }
+  [449]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BKSZ0001"
+    ["name"]=>
+    string(17) "بیمه کوثر"
+    ["symbol"]=>
+    string(8) "کوثر"
+    ["percent"]=>
+    float(-0.08869171762876)
+  }
+  [450]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BALB0001"
+    ["name"]=>
+    string(19) "بیمه البرز"
+    ["symbol"]=>
+    string(10) "البرز"
+    ["percent"]=>
+    float(0.34613947230735)
+  }
+  [451]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BNOP0001"
+    ["name"]=>
+    string(17) "بیمه نوین"
+    ["symbol"]=>
+    string(8) "نوین"
+    ["percent"]=>
+    float(0.25705763289656)
+  }
+  [452]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7HSIP0001"
+    ["name"]=>
+    string(24) "بیمه حکمت صبا"
+    ["symbol"]=>
+    string(10) "وحکمت"
+    ["percent"]=>
+    float(0.048422744625276)
+  }
+  [453]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3MLIZ0001"
+    ["name"]=>
+    string(38) "بیمه زندگی خاورمیانه"
+    ["symbol"]=>
+    string(10) "بخاور"
+    ["percent"]=>
+    float(0.079775280898876)
+  }
+  [454]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ASIA0001"
+    ["name"]=>
+    string(17) "بیمه آسیا"
+    ["symbol"]=>
+    string(8) "آسیا"
+    ["percent"]=>
+    float(0.73962203198191)
+  }
+  [455]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SRMP0001"
+    ["name"]=>
+    string(17) "بیمه سرمد"
+    ["symbol"]=>
+    string(10) "وسرمد"
+    ["percent"]=>
+    float(0.17098710254118)
+  }
+  [456]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BMEL0001"
+    ["name"]=>
+    string(15) "بیمه ملت"
+    ["symbol"]=>
+    string(6) "ملت"
+    ["percent"]=>
+    float(0.12349954927172)
+  }
+  [457]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1IPAR0001"
+    ["name"]=>
+    string(23) "بیمه پارسیان"
+    ["symbol"]=>
+    string(14) "پارسیان"
+    ["percent"]=>
+    float(0.054573703631773)
+  }
+  [458]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BVMA0001"
+    ["name"]=>
+    string(14) "بیمه  ما"
+    ["symbol"]=>
+    string(4) "ما"
+    ["percent"]=>
+    float(0.39968895800933)
+  }
+  [459]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BIPZ0001"
+    ["name"]=>
+    string(25) "بیمه پاسارگاد"
+    ["symbol"]=>
+    string(8) "بپاس"
+    ["percent"]=>
+    float(0.76159490056771)
+  }
+  [460]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ARMP0001"
+    ["name"]=>
+    string(19) "بیمه آرمان"
+    ["symbol"]=>
+    string(10) "آرمان"
+    ["percent"]=>
+    float(0.022727272727273)
+  }
+  [461]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ETKZ0001"
+    ["name"]=>
+    string(38) "بیمه اتکایی ایرانیان"
+    ["symbol"]=>
+    string(10) "اتکای"
+    ["percent"]=>
+    float(0.3813844428586)
+  }
+  [462]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3MIHZ0001"
+    ["name"]=>
+    string(17) "بیمه میهن"
+    ["symbol"]=>
+    string(8) "میهن"
+    ["percent"]=>
+    float(0.53540008378718)
+  }
+  [463]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7TVNP0001"
+    ["name"]=>
+    string(19) "بیمه تعاون"
+    ["symbol"]=>
+    string(12) "وتعاون"
+    ["percent"]=>
+    float(-0.028109525196621)
+  }
+  [464]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3MOIZ0001"
+    ["name"]=>
+    string(17) "بیمه معلم"
+    ["symbol"]=>
+    string(10) "ومعلم"
+    ["percent"]=>
+    float(0.44132244025349)
+  }
+  [465]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BMDZ0001"
+    ["name"]=>
+    string(13) "بیمه دی"
+    ["symbol"]=>
+    string(6) "ودی"
+    ["percent"]=>
+    float(0.50834205503909)
+  }
+  [466]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7RZIP0001"
+    ["name"]=>
+    string(17) "بیمه رازی"
+    ["symbol"]=>
+    string(10) "ورازی"
+    ["percent"]=>
+    float(0.58704368010129)
+  }
+  [467]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7VSNP0001"
+    ["name"]=>
+    string(17) "بیمه سینا"
+    ["symbol"]=>
+    string(8) "وسین"
+    ["percent"]=>
+    float(0.89546110309622)
+  }
+  [468]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7HFZP0001"
+    ["name"]=>
+    string(17) "بیمه حافظ"
+    ["symbol"]=>
+    string(10) "وحافظ"
+    ["percent"]=>
+    float(0.1320184790334)
+  }
+  [469]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BSMZ0001"
+    ["name"]=>
+    string(19) "بیمه سامان"
+    ["symbol"]=>
+    string(10) "بساما"
+    ["percent"]=>
+    float(0.13830925628678)
+  }
+  [470]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BPST0001"
+    ["name"]=>
+    string(26) "پست بانک ایران"
+    ["symbol"]=>
+    string(8) "وپست"
+    ["percent"]=>
+    float(0.089981197958636)
+  }
+  [471]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7GRDZ0001"
+    ["name"]=>
+    string(23) "بانک گردشگری"
+    ["symbol"]=>
+    string(10) "وگردش"
+    ["percent"]=>
+    float(0.85103722230396)
+  }
+  [472]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3GEMZ0001"
+    ["name"]=>
+    string(23) "جنرال مکانیک"
+    ["symbol"]=>
+    string(8) "رنیک"
+    ["percent"]=>
+    float(0.078918975816426)
+  }
+  [473]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BGHZ0001"
+    ["name"]=>
+    string(50) "شهرسازی و خانه سازی باغمیشه"
+    ["symbol"]=>
+    string(8) "ثباغ"
+    ["percent"]=>
+    float(0.71320754716981)
+  }
+  [474]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3KRMZ0001"
+    ["name"]=>
+    string(49) "س. توسعه وعمران استان کرمان"
+    ["symbol"]=>
+    string(10) "کرمان"
+    ["percent"]=>
+    float(-0.065928899497306)
+  }
+  [475]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3OSHZ0001"
+    ["name"]=>
+    string(42) "شرکت عمران و توسعه شاهد"
+    ["symbol"]=>
+    string(10) "ثعمرا"
+    ["percent"]=>
+    float(0.42491779320424)
+  }
+  [476]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ZNDZ0001"
+    ["name"]=>
+    string(54) "سرمایه‌گذاری مسکن زاینده رود"
+    ["symbol"]=>
+    string(8) "ثرود"
+    ["percent"]=>
+    float(0.10210696920583)
+  }
+  [477]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SAKH0001"
+    ["name"]=>
+    string(49) "سرمایه گذاری ساختمان ایران"
+    ["symbol"]=>
+    string(10) "وساخت"
+    ["percent"]=>
+    float(0.28576027470759)
+  }
+  [478]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SJAP0001"
+    ["name"]=>
+    string(15) "سخت آژند"
+    ["symbol"]=>
+    string(8) "ثاژن"
+    ["percent"]=>
+    float(0.063848920863309)
+  }
+  [479]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3SLVZ0001"
+    ["name"]=>
+    string(43) "سرمایه گذاری مسکن الوند"
+    ["symbol"]=>
+    string(12) "ثالوند"
+    ["percent"]=>
+    float(0.20514664748661)
+  }
+  [480]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SJVP0001"
+    ["name"]=>
+    string(32) "تامین مسکن جوانان"
+    ["symbol"]=>
+    string(10) "ثجوان"
+    ["percent"]=>
+    float(0.11735174144964)
+  }
+  [481]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ASPZ0001"
+    ["name"]=>
+    string(8) "آ.س.پ"
+    ["symbol"]=>
+    string(8) "آ س پ"
+    ["percent"]=>
+    float(0.33656788180785)
+  }
+  [482]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR7NORP0101"
+    ["name"]=>
+    string(37) "سرمایه گذاری کوه نور"
+    ["symbol"]=>
+    string(10) "ثنورح"
+    ["percent"]=>
+    float(0.2456793406009)
+  }
+  [483]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3MPRZ0001"
+    ["name"]=>
+    string(43) "سرمایه گذاری مسکن پردیس"
+    ["symbol"]=>
+    string(12) "ثپردیس"
+    ["percent"]=>
+    float(0.084880312652662)
+  }
+  [484]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7NZMP0001"
+    ["name"]=>
+    string(53) "س. ساختمانی نظام مهندسی ایران"
+    ["symbol"]=>
+    string(10) "ثنظام"
+    ["percent"]=>
+    float(-0.036036522772705)
+  }
+  [485]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3CGRZ0001"
+    ["name"]=>
+    string(56) "شرکت سرمایه گذاری مسکن شمالغرب"
+    ["symbol"]=>
+    string(8) "ثغرب"
+    ["percent"]=>
+    float(0.60559723023658)
+  }
+  [486]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3PMTZ0001"
+    ["name"]=>
+    string(43) "سرمایه گذاری مسکن تهران"
+    ["symbol"]=>
+    string(10) "ثتران"
+    ["percent"]=>
+    float(0.25198512413308)
+  }
+  [487]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7CNAP0001"
+    ["name"]=>
+    string(53) "س ساختمانی ب نام آوران مهندسی"
+    ["symbol"]=>
+    string(8) "ثنام"
+    ["percent"]=>
+    float(0.35246406570842)
+  }
+  [488]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TGOS0001"
+    ["name"]=>
+    string(41) "توسعه‌شهری‌توس‌گستر"
+    ["symbol"]=>
+    string(8) "وتوس"
+    ["percent"]=>
+    float(0.7633880947301)
+  }
+  [489]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7QAZP0001"
+    ["name"]=>
+    string(48) "شرکت عمران و سازندگی قزوین"
+    ["symbol"]=>
+    string(10) "ثقزوی"
+    ["percent"]=>
+    float(0.080917556689641)
+  }
+  [490]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ABAD0001"
+    ["name"]=>
+    string(55) "توریستی ورفاهی آبادگران ایران"
+    ["symbol"]=>
+    string(10) "ثاباد"
+    ["percent"]=>
+    float(0.41356772594095)
+  }
+  [491]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SAHD0001"
+    ["name"]=>
+    string(38) "سرمایه‌ گذاری‌ شاهد"
+    ["symbol"]=>
+    string(10) "ثشاهد"
+    ["percent"]=>
+    float(0.94580047565402)
+  }
+  [492]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SGOS0001"
+    ["name"]=>
+    string(37) "سامان‌ گستراصفهان‌"
+    ["symbol"]=>
+    string(10) "ثامان"
+    ["percent"]=>
+    float(0.44029221691486)
+  }
+  [493]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7NORP0001"
+    ["name"]=>
+    string(37) "سرمایه گذاری کوه نور"
+    ["symbol"]=>
+    string(8) "ثنور"
+    ["percent"]=>
+    float(0.21825469120058)
+  }
+  [494]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PMSZ0001"
+    ["name"]=>
+    string(48) "سرمایه گذاری مسکن شمال شرق"
+    ["symbol"]=>
+    string(8) "ثشرق"
+    ["percent"]=>
+    float(0.4638346727899)
+  }
+  [495]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7CZGP0001"
+    ["name"]=>
+    string(56) "سرمایه گذاری توسعه عمران زاگرس"
+    ["symbol"]=>
+    string(12) "ثزاگرس"
+    ["percent"]=>
+    float(0.078818737270876)
+  }
+  [496]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SADR0001"
+    ["name"]=>
+    string(40) "سرمایه گذاری صدرتامین"
+    ["symbol"]=>
+    string(12) "تاصیکو"
+    ["percent"]=>
+    float(0.50736813111142)
+  }
+  [497]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3KSGZ0001"
+    ["name"]=>
+    string(53) "صنعتی و معدنی شمال شرق شاهرود"
+    ["symbol"]=>
+    string(8) "کشرق"
+    ["percent"]=>
+    float(0.1111327391794)
+  }
+  [498]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TAMI0001"
+    ["name"]=>
+    string(48) "تامین‌ ماسه‌ ریخته‌گری‌"
+    ["symbol"]=>
+    string(10) "کماسه"
+    ["percent"]=>
+    float(0.31446097057866)
+  }
+  [499]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1HSHM0001"
+    ["name"]=>
+    string(19) "حفاری شمال"
+    ["symbol"]=>
+    string(10) "حفاری"
+    ["percent"]=>
+    float(0.38906003970699)
+  }
+  [500]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7OECP0001"
+    ["name"]=>
+    string(48) "مهندسی و ساختمان صنایع نفت"
+    ["symbol"]=>
+    string(10) "شساخت"
+    ["percent"]=>
+    float(0.23570638140907)
+  }
+  [501]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ROOI0001"
+    ["name"]=>
+    string(51) "توسعه‌ معادن‌ روی‌ ایران‌"
+    ["symbol"]=>
+    string(8) "کروی"
+    ["percent"]=>
+    float(0.69018567639257)
+  }
+  [502]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BAFG0001"
+    ["name"]=>
+    string(25) "معادن‌ بافق‌"
+    ["symbol"]=>
+    string(10) "کبافق"
+    ["percent"]=>
+    float(0.058429561200924)
+  }
+  [503]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MADN0001"
+    ["name"]=>
+    string(41) "توسعه‌معادن‌وفلزات‌"
+    ["symbol"]=>
+    string(12) "ومعادن"
+    ["percent"]=>
+    float(0.48673707973877)
+  }
+  [504]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BAMA0001"
+    ["name"]=>
+    string(8) "باما"
+    ["symbol"]=>
+    string(8) "کاما"
+    ["percent"]=>
+    float(1.2320260101423)
+  }
+  [505]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR3GZIZ0101"
+    ["name"]=>
+    string(28) "سنگ آهن گهرزمین"
+    ["symbol"]=>
+    string(10) "کگهرح"
+    ["percent"]=>
+    float(0.079898580121704)
+  }
+  [506]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MNGZ0001"
+    ["name"]=>
+    string(36) "معادن‌منگنزایران‌"
+    ["symbol"]=>
+    string(12) "کمنگنز"
+    ["percent"]=>
+    float(0.27897831042619)
+  }
+  [507]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NSTH0001"
+    ["name"]=>
+    string(47) "نوسازی‌وساختمان‌تهران‌"
+    ["symbol"]=>
+    string(10) "ثنوسا"
+    ["percent"]=>
+    float(0.12301957129543)
+  }
+  [508]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3GZIZ0001"
+    ["name"]=>
+    string(28) "سنگ آهن گهرزمین"
+    ["symbol"]=>
+    string(8) "کگهر"
+    ["percent"]=>
+    float(-0.059742532183477)
+  }
+  [509]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7NARP0001"
+    ["name"]=>
+    string(37) "مجتمع معادن مس تکنار"
+    ["symbol"]=>
+    string(10) "تکنار"
+    ["percent"]=>
+    float(0.13757201646091)
+  }
+  [510]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1HWEB0001"
+    ["name"]=>
+    string(43) "داده گسترعصرنوین-های وب"
+    ["symbol"]=>
+    string(11) "های وب"
+    ["percent"]=>
+    float(0.11832061068702)
+  }
+  [511]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3APDZ0001"
+    ["name"]=>
+    string(28) "آتیه داده پرداز"
+    ["symbol"]=>
+    string(12) "اپرداز"
+    ["percent"]=>
+    float(0.058762282813822)
+  }
+  [512]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3MOBZ0001"
+    ["name"]=>
+    string(22) "مبین وان کیش"
+    ["symbol"]=>
+    string(8) "اوان"
+    ["percent"]=>
+    float(0.16678378700892)
+  }
+  [513]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BSTE0001"
+    ["name"]=>
+    string(51) "بین‌المللی‌توسعه‌ساختمان"
+    ["symbol"]=>
+    string(8) "ثاخت"
+    ["percent"]=>
+    float(0.49072929542645)
+  }
+  [514]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MSKN0001"
+    ["name"]=>
+    string(40) "سرمایه‌گذاری‌ مسکن‌"
+    ["symbol"]=>
+    string(10) "ثمسکن"
+    ["percent"]=>
+    float(0.26436781609195)
+  }
+  [515]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1OFRS0001"
+    ["name"]=>
+    string(39) "عمران‌وتوسعه‌فارس‌"
+    ["symbol"]=>
+    string(10) "ثفارس"
+    ["percent"]=>
+    float(0.16111111111111)
+  }
+  [516]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7KSNP0001"
+    ["name"]=>
+    string(19) "شرکت کیسون"
+    ["symbol"]=>
+    string(10) "کیسون"
+    ["percent"]=>
+    float(0.80027578198708)
+  }
+  [517]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7CKHP0001"
+    ["name"]=>
+    string(52) "سرمایه گذاری و توسعه خوزستان"
+    ["symbol"]=>
+    string(10) "وثخوز"
+    ["percent"]=>
+    float(0.058386481688474)
+  }
+  [518]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SESP0001"
+    ["name"]=>
+    string(45) "شرکت‌ ساختمان‌ اصفهان‌"
+    ["symbol"]=>
+    string(10) "ثاصفا"
+    ["percent"]=>
+    float(0.31609195402299)
+  }
+  [519]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ZMNP0001"
+    ["name"]=>
+    string(28) "بانک ایران زمین"
+    ["symbol"]=>
+    string(10) "وزمین"
+    ["percent"]=>
+    float(0.6100147275405)
+  }
+  [520]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MELZ9711"
+    ["name"]=>
+    string(50) "تسهیلات مسکن بانک ملی ایران"
+    ["symbol"]=>
+    string(11) "تملی701"
+    ["percent"]=>
+    float(0.1119397779769)
+  }
+  [521]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9871"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9807"
+    ["percent"]=>
+    float(-0.054948027159959)
+  }
+  [522]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9841"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9804"
+    ["percent"]=>
+    float(-0.026399687372123)
+  }
+  [523]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9851"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9805"
+    ["percent"]=>
+    float(-0.065604060913706)
+  }
+  [524]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MELZ9791"
+    ["name"]=>
+    string(50) "تسهیلات مسکن بانک ملی ایران"
+    ["symbol"]=>
+    string(11) "تملی709"
+    ["percent"]=>
+    int(0)
+  }
+  [525]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MELZ96C1"
+    ["name"]=>
+    string(50) "تسهیلات مسکن بانک ملی ایران"
+    ["symbol"]=>
+    string(11) "تملی612"
+    ["percent"]=>
+    float(-0.0625)
+  }
+  [526]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MELZ9841"
+    ["name"]=>
+    string(50) "تسهیلات مسکن بانک ملی ایران"
+    ["symbol"]=>
+    string(11) "تملی804"
+    ["percent"]=>
+    float(-0.07026455026455)
+  }
+  [527]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MELZ97B1"
+    ["name"]=>
+    string(50) "تسهیلات مسکن بانک ملی ایران"
+    ["symbol"]=>
+    string(11) "تملی711"
+    ["percent"]=>
+    float(-0.050240325579764)
+  }
+  [528]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MELZ96B1"
+    ["name"]=>
+    string(50) "تسهیلات مسکن بانک ملی ایران"
+    ["symbol"]=>
+    string(11) "تملی611"
+    ["percent"]=>
+    int(0)
+  }
+  [529]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MELZ97C1"
+    ["name"]=>
+    string(50) "تسهیلات مسکن بانک ملی ایران"
+    ["symbol"]=>
+    string(11) "تملی712"
+    ["percent"]=>
+    int(0)
+  }
+  [530]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BTEJ0001"
+    ["name"]=>
+    string(19) "بانک تجارت"
+    ["symbol"]=>
+    string(12) "وتجارت"
+    ["percent"]=>
+    float(0.60253287871408)
+  }
+  [531]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ97B1"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9711"
+    ["percent"]=>
+    float(-0.068969348659004)
+  }
+  [532]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BSDR0001"
+    ["name"]=>
+    string(32) "بانک صادرات ایران"
+    ["symbol"]=>
+    string(12) "وبصادر"
+    ["percent"]=>
+    float(0.8585005279831)
+  }
+  [533]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BPAR0001"
+    ["name"]=>
+    string(28) "بانک‌پارسیان‌"
+    ["symbol"]=>
+    string(10) "وپارس"
+    ["percent"]=>
+    float(1.0264719306253)
+  }
+  [534]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BMLT0001"
+    ["name"]=>
+    string(15) "بانک ملت"
+    ["symbol"]=>
+    string(10) "وبملت"
+    ["percent"]=>
+    float(0.29823209210463)
+  }
+  [535]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BPAS0001"
+    ["name"]=>
+    string(25) "بانک پاسارگاد"
+    ["symbol"]=>
+    string(12) "وپاسار"
+    ["percent"]=>
+    float(0.5295411376587)
+  }
+  [536]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NOVN0001"
+    ["name"]=>
+    string(34) "بانک‌اقتصادنوین‌"
+    ["symbol"]=>
+    string(10) "ونوین"
+    ["percent"]=>
+    float(0.50892857142857)
+  }
+  [537]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ASKZ0001"
+    ["name"]=>
+    string(21) "اعتباری ملل"
+    ["symbol"]=>
+    string(8) "وملل"
+    ["percent"]=>
+    float(0.24335812964931)
+  }
+  [538]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1VSIN0001"
+    ["name"]=>
+    string(17) "بانک سینا"
+    ["symbol"]=>
+    string(10) "وسینا"
+    ["percent"]=>
+    float(0.30611490855348)
+  }
+  [539]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7BSAP0001"
+    ["name"]=>
+    string(19) "بانک سامان"
+    ["symbol"]=>
+    string(10) "سامان"
+    ["percent"]=>
+    float(0.36363636363636)
+  }
+  [540]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BDYZ0001"
+    ["name"]=>
+    string(13) "بانک دی"
+    ["symbol"]=>
+    string(4) "دی"
+    ["percent"]=>
+    float(1.0869945355191)
+  }
+  [541]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ97A1"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9710"
+    ["percent"]=>
+    float(-0.077539622641509)
+  }
+  [542]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9781"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9708"
+    ["percent"]=>
+    float(-0.11378783327845)
+  }
+  [543]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7CTSP0001"
+    ["name"]=>
+    string(51) "س.توسعه و عمران استان اردبیل"
+    ["symbol"]=>
+    string(10) "ثتوسا"
+    ["percent"]=>
+    float(0.671711384202)
+  }
+  [544]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ98B1"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9811"
+    ["percent"]=>
+    float(-0.063249367088608)
+  }
+  [545]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TAZB0001"
+    ["name"]=>
+    string(62) "سرمایه‌گذاری‌توسعه‌آذربایجان‌"
+    ["symbol"]=>
+    string(8) "وآذر"
+    ["percent"]=>
+    float(-0.0047585972482894)
+  }
+  [546]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR3ASPZ0101"
+    ["name"]=>
+    string(8) "آ.س.پ"
+    ["symbol"]=>
+    string(10) "آ س پح"
+    ["percent"]=>
+    int(0)
+  }
+  [547]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR7QAZP0101"
+    ["name"]=>
+    string(48) "شرکت عمران و سازندگی قزوین"
+    ["symbol"]=>
+    string(12) "ثقزویح"
+    ["percent"]=>
+    int(0)
+  }
+  [548]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1OFST0001"
+    ["name"]=>
+    string(11) "افست‌"
+    ["symbol"]=>
+    string(10) "چافست"
+    ["percent"]=>
+    float(0.51817259593522)
+  }
+  [549]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9931"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9903"
+    ["percent"]=>
+    float(0.34376727272727)
+  }
+  [550]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9921"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9902"
+    ["percent"]=>
+    float(-0.066470063694268)
+  }
+  [551]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ98A1"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9810"
+    ["percent"]=>
+    float(-0.044155844155844)
+  }
+  [552]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ98C1"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9812"
+    ["percent"]=>
+    float(-0.05651087067993)
+  }
+  [553]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9911"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9901"
+    ["percent"]=>
+    float(-0.060648614609572)
+  }
+  [554]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9891"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9809"
+    ["percent"]=>
+    float(-0.069003269216148)
+  }
+  [555]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9791"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9709"
+    ["percent"]=>
+    float(-0.051759333523065)
+  }
+  [556]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9881"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9808"
+    ["percent"]=>
+    float(-0.074023899371069)
+  }
+  [557]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9811"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9801"
+    ["percent"]=>
+    float(-0.056710796915167)
+  }
+  [558]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9751"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9705"
+    ["percent"]=>
+    float(-0.072454443887969)
+  }
+  [559]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9821"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9802"
+    ["percent"]=>
+    float(-0.048962801508934)
+  }
+  [560]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9761"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9706"
+    ["percent"]=>
+    float(-0.078667260381839)
+  }
+  [561]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9831"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9803"
+    ["percent"]=>
+    float(-0.056046451944052)
+  }
+  [562]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9861"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9806"
+    ["percent"]=>
+    float(-0.067184810126582)
+  }
+  [563]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ9771"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9707"
+    ["percent"]=>
+    float(-0.054410859867713)
+  }
+  [564]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO6MSKZ97C1"
+    ["name"]=>
+    string(17) "بانک مسکن"
+    ["symbol"]=>
+    string(10) "تسه9712"
+    ["percent"]=>
+    float(-0.085693366708385)
+  }
+  [565]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MAPN0001"
+    ["name"]=>
+    string(37) "گروه مپنا (سهامی عام)"
+    ["symbol"]=>
+    string(10) "رمپنا"
+    ["percent"]=>
+    float(0.7192417739628)
+  }
+  [566]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TKIN0001"
+    ["name"]=>
+    string(43) "کنترل‌خوردگی‌تکین‌کو"
+    ["symbol"]=>
+    string(8) "رتکو"
+    ["percent"]=>
+    float(-0.020193359548236)
+  }
+  [567]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SROD0001"
+    ["name"]=>
+    string(25) "سیمان‌شاهرود"
+    ["symbol"]=>
+    string(8) "سرود"
+    ["percent"]=>
+    float(0.31869826744126)
+  }
+  [568]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SPAH0001"
+    ["name"]=>
+    string(38) "سرمایه‌گذاری‌ سپه‌"
+    ["symbol"]=>
+    string(8) "وسپه"
+    ["percent"]=>
+    float(0.4684000901781)
+  }
+  [569]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7AZRP0001"
+    ["name"]=>
+    string(13) "آذریت‌"
+    ["symbol"]=>
+    string(10) "ساذری"
+    ["percent"]=>
+    float(0.0010210493245366)
+  }
+  [570]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1LSMD0001"
+    ["name"]=>
+    string(39) "لیزینگ‌صنعت‌ومعدن‌"
+    ["symbol"]=>
+    string(10) "ولصنم"
+    ["percent"]=>
+    float(0.39629662443519)
+  }
+  [571]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1LIRZ0001"
+    ["name"]=>
+    string(29) "لیزینگ ایرانیان"
+    ["symbol"]=>
+    string(12) "وایران"
+    ["percent"]=>
+    float(0.042253521126761)
+  }
+  [572]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1LZIN0001"
+    ["name"]=>
+    string(28) "لیزینگ‌ایران‌"
+    ["symbol"]=>
+    string(8) "ولیز"
+    ["percent"]=>
+    float(-0.096189261935118)
+  }
+  [573]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BHLZ0001"
+    ["name"]=>
+    string(30) "شرکت بهمن لیزینگ"
+    ["symbol"]=>
+    string(12) "ولبهمن"
+    ["percent"]=>
+    float(0.49062092486709)
+  }
+  [574]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1LKGH0001"
+    ["name"]=>
+    string(33) "لیزینگ‌خودروغدیر"
+    ["symbol"]=>
+    string(10) "ولغدر"
+    ["percent"]=>
+    float(0.57050954763607)
+  }
+  [575]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1VLMT0001"
+    ["name"]=>
+    string(21) "واسپاری ملت"
+    ["symbol"]=>
+    string(10) "ولملت"
+    ["percent"]=>
+    float(0.083229813664596)
+  }
+  [576]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SNMA0001"
+    ["name"]=>
+    string(56) "سرمایه گذاری توسعه صنعت وتجارت"
+    ["symbol"]=>
+    string(10) "وصنعت"
+    ["percent"]=>
+    float(0.25733937258849)
+  }
+  [577]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SSAP0001"
+    ["name"]=>
+    string(39) "سرمایه‌گذاری‌ سایپا"
+    ["symbol"]=>
+    string(10) "وساپا"
+    ["percent"]=>
+    float(0.52111561665513)
+  }
+  [578]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ABGP0001"
+    ["name"]=>
+    string(42) "تولیدی و صنعتی آبگینه‌"
+    ["symbol"]=>
+    string(10) "کابگن"
+    ["percent"]=>
+    float(0.063675106542993)
+  }
+  [579]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SKBV0001"
+    ["name"]=>
+    string(52) "س.ص.بازنشستگی کارکنان بانکها"
+    ["symbol"]=>
+    string(10) "وسکاب"
+    ["percent"]=>
+    float(0.22625698324022)
+  }
+  [580]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3MEAZ0001"
+    ["name"]=>
+    string(50) "گروه توسعه مالی مهر آیندگان"
+    ["symbol"]=>
+    string(10) "ومهان"
+    ["percent"]=>
+    float(0.60838487972509)
+  }
+  [581]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3SOBZ0001"
+    ["name"]=>
+    string(34) "سرمایه گذاری سبحان"
+    ["symbol"]=>
+    string(12) "وسبحان"
+    ["percent"]=>
+    float(0.16907502653278)
+  }
+  [582]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1IDOC0001"
+    ["name"]=>
+    string(47) "سرمایه گذاری اعتبار ایران"
+    ["symbol"]=>
+    string(14) "واعتبار"
+    ["percent"]=>
+    float(0.10533333333333)
+  }
+  [583]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3SARZ0001"
+    ["name"]=>
+    string(41) "سرمایه گذاری مس سرچشمه"
+    ["symbol"]=>
+    string(12) "سرچشمه"
+    ["percent"]=>
+    float(0.32603825607444)
+  }
+  [584]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3STIZ0001"
+    ["name"]=>
+    string(41) "سرمایه گذاری صبا تامین"
+    ["symbol"]=>
+    string(6) "صبا"
+    ["percent"]=>
+    float(0.33165666071718)
+  }
+  [585]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TMEL0001"
+    ["name"]=>
+    string(50) "سرمایه‌گذاری‌توسعه‌ملی‌"
+    ["symbol"]=>
+    string(10) "وتوسم"
+    ["percent"]=>
+    float(0.19507042253521)
+  }
+  [586]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SBAH0001"
+    ["name"]=>
+    string(39) "سرمایه‌گذاری‌بهمن‌"
+    ["symbol"]=>
+    string(10) "وبهمن"
+    ["percent"]=>
+    float(1.2925811326186)
+  }
+  [587]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ARNP0001"
+    ["name"]=>
+    string(43) "شرکت توسعه اقتصادی آرین"
+    ["symbol"]=>
+    string(10) "وآرین"
+    ["percent"]=>
+    float(-0.099542857142857)
+  }
+  [588]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PRMP0001"
+    ["name"]=>
+    string(13) "پرمیت‌"
+    ["symbol"]=>
+    string(10) "سپرمی"
+    ["percent"]=>
+    float(0.022025347606743)
+  }
+  [589]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7IRNP0001"
+    ["name"]=>
+    string(17) "ایرانیت‌"
+    ["symbol"]=>
+    string(10) "سایرا"
+    ["percent"]=>
+    float(0.14759324195091)
+  }
+  [590]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GBEH0001"
+    ["name"]=>
+    string(50) "‌گروه‌صنایع‌بهشهرایران‌"
+    ["symbol"]=>
+    string(8) "وصنا"
+    ["percent"]=>
+    float(0.4764238091413)
+  }
+  [591]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SGAZ0001"
+    ["name"]=>
+    string(21) "شیشه‌ و گاز"
+    ["symbol"]=>
+    string(8) "کگاز"
+    ["percent"]=>
+    float(0.11168877733955)
+  }
+  [592]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7FNRP0001"
+    ["name"]=>
+    string(43) "گسترش صنایع انرژی آذرآب"
+    ["symbol"]=>
+    string(10) "فنرژی"
+    ["percent"]=>
+    float(-0.08274485723058)
+  }
+  [593]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1LAMI0001"
+    ["name"]=>
+    string(14) "لامیران"
+    ["symbol"]=>
+    string(10) "فلامی"
+    ["percent"]=>
+    float(0.34998777587625)
+  }
+  [594]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1JAMD0001"
+    ["name"]=>
+    string(17) "جام‌دارو"
+    ["symbol"]=>
+    string(8) "فجام"
+    ["percent"]=>
+    float(0.36563323710305)
+  }
+  [595]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7FBSP0001"
+    ["name"]=>
+    string(45) "صنایع ‌بسته‌بندی‌ مشهد"
+    ["symbol"]=>
+    string(10) "فبستم"
+    ["percent"]=>
+    float(0.019319227230911)
+  }
+  [596]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TSRZ0001"
+    ["name"]=>
+    string(58) "کارخانجات‌تولیدی‌شیشه‌رازی‌"
+    ["symbol"]=>
+    string(10) "کرازی"
+    ["percent"]=>
+    float(0.1407113027078)
+  }
+  [597]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHMD0001"
+    ["name"]=>
+    string(25) "شیشه‌ همدان‌"
+    ["symbol"]=>
+    string(10) "کهمدا"
+    ["percent"]=>
+    float(0.26616541353383)
+  }
+  [598]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SFSP0001"
+    ["name"]=>
+    string(32) "شرکت فارسیت اهواز"
+    ["symbol"]=>
+    string(10) "سفاسی"
+    ["percent"]=>
+    float(0.19492977046934)
+  }
+  [599]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SHQP0001"
+    ["name"]=>
+    string(25) "شیشه‌ قزوین‌"
+    ["symbol"]=>
+    string(10) "کقزوی"
+    ["percent"]=>
+    float(0.14348833840359)
+  }
+  [600]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NSAZ0001"
+    ["name"]=>
+    string(40) "فرآورده‌های‌نسوزآذر"
+    ["symbol"]=>
+    string(8) "کاذر"
+    ["percent"]=>
+    float(0.25302197802198)
+  }
+  [601]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3TUKZ0001"
+    ["name"]=>
+    string(55) "تولیدی و خدمات صنایع نسوز توکا"
+    ["symbol"]=>
+    string(10) "کتوکا"
+    ["percent"]=>
+    float(0.8)
+  }
+  [602]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KCHI0001"
+    ["name"]=>
+    string(46) "صنایع‌خاک‌چینی‌ایران‌"
+    ["symbol"]=>
+    string(8) "کخاک"
+    ["percent"]=>
+    float(0.70402999267672)
+  }
+  [603]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SFAP0001"
+    ["name"]=>
+    string(36) "کارخانه فارسیت درود"
+    ["symbol"]=>
+    string(12) "سفارود"
+    ["percent"]=>
+    float(-0.07246918192006)
+  }
+  [604]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7KFRP0001"
+    ["name"]=>
+    string(39) "فرآورده های سیمان شرق"
+    ["symbol"]=>
+    string(12) "کفرآور"
+    ["percent"]=>
+    float(0.15583152539837)
+  }
+  [605]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7MIGP0001"
+    ["name"]=>
+    string(26) "شیشه سازی مینا"
+    ["symbol"]=>
+    string(10) "کمینا"
+    ["percent"]=>
+    float(0.19816798887708)
+  }
+  [606]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3MRJZ0001"
+    ["name"]=>
+    string(50) "بازرگانی و تولیدی مرجان کار"
+    ["symbol"]=>
+    string(12) "کمرجان"
+    ["percent"]=>
+    float(0.16593102032437)
+  }
+  [607]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PSIR0001"
+    ["name"]=>
+    string(33) "پشم‌شیشه‌ایران‌"
+    ["symbol"]=>
+    string(10) "کپشیر"
+    ["percent"]=>
+    float(0.071519271718533)
+  }
+  [608]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NASI0001"
+    ["name"]=>
+    string(49) "فراورده‌ های‌ نسوزایران‌"
+    ["symbol"]=>
+    string(8) "کفرا"
+    ["percent"]=>
+    float(0.76856362124272)
+  }
+  [609]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PSER0001"
+    ["name"]=>
+    string(23) "پارس‌ سرام‌"
+    ["symbol"]=>
+    string(10) "کسرام"
+    ["percent"]=>
+    float(-0.044045298147616)
+  }
+  [610]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR1NASI0101"
+    ["name"]=>
+    string(49) "فراورده‌ های‌ نسوزایران‌"
+    ["symbol"]=>
+    string(10) "کفراح"
+    ["percent"]=>
+    float(0.6253488372093)
+  }
+  [611]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SISH0001"
+    ["name"]=>
+    string(21) "سایپاشیشه‌"
+    ["symbol"]=>
+    string(10) "کساپا"
+    ["percent"]=>
+    float(0.040225563909774)
+  }
+  [612]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BIME0001"
+    ["name"]=>
+    string(53) "سرمایه‌ گذاری‌ صنعت‌ بیمه‌"
+    ["symbol"]=>
+    string(10) "وبیمه"
+    ["percent"]=>
+    float(0.32307692307692)
+  }
+  [613]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TOSA0001"
+    ["name"]=>
+    string(44) "گروه س توسعه صنعتی ایران"
+    ["symbol"]=>
+    string(10) "وتوصا"
+    ["percent"]=>
+    float(-0.17558299039781)
+  }
+  [614]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1CHDN0001"
+    ["name"]=>
+    string(30) "تولیدی چدن سازان"
+    ["symbol"]=>
+    string(6) "چدن"
+    ["percent"]=>
+    float(0.15451612903226)
+  }
+  [615]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1STEH0001"
+    ["name"]=>
+    string(27) "سیمان‌ تهران‌"
+    ["symbol"]=>
+    string(10) "ستران"
+    ["percent"]=>
+    float(0.5578309017402)
+  }
+  [616]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SMAZ0001"
+    ["name"]=>
+    string(32) "سیمان‌مازندران‌"
+    ["symbol"]=>
+    string(10) "سمازن"
+    ["percent"]=>
+    float(0.1495962600935)
+  }
+  [617]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SASP0001"
+    ["name"]=>
+    string(37) "مجتمع سیمان غرب آسیا"
+    ["symbol"]=>
+    string(8) "سجام"
+    ["percent"]=>
+    float(0.86997991967871)
+  }
+  [618]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SFKZ0001"
+    ["name"]=>
+    string(40) "سیمان‌فارس‌وخوزستان"
+    ["symbol"]=>
+    string(10) "سفارس"
+    ["percent"]=>
+    float(0.36515875496807)
+  }
+  [619]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1CIDC0001"
+    ["name"]=>
+    string(56) "سرمایه گذاری توسعه صنایع سیمان"
+    ["symbol"]=>
+    string(10) "سیدکو"
+    ["percent"]=>
+    float(0.32205913635397)
+  }
+  [620]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3SBZZ0001"
+    ["name"]=>
+    string(30) "سیمان لار سبزوار"
+    ["symbol"]=>
+    string(10) "سبزوا"
+    ["percent"]=>
+    float(-0.16361435805969)
+  }
+  [621]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KHOC0001"
+    ["name"]=>
+    string(25) "سیمان خوزستان"
+    ["symbol"]=>
+    string(8) "سخوز"
+    ["percent"]=>
+    float(0.12147505422993)
+  }
+  [622]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SSEP0001"
+    ["name"]=>
+    string(28) "سیمان‌سپاهان‌"
+    ["symbol"]=>
+    string(10) "سپاها"
+    ["percent"]=>
+    float(0.55630467934826)
+  }
+  [623]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SKOR0001"
+    ["name"]=>
+    string(25) "سیمان کردستان"
+    ["symbol"]=>
+    string(8) "سکرد"
+    ["percent"]=>
+    float(0.10369833212473)
+  }
+  [624]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SIMS0001"
+    ["name"]=>
+    string(25) "سیمان‌ شمال‌"
+    ["symbol"]=>
+    string(10) "سشمال"
+    ["percent"]=>
+    float(0.32127109624449)
+  }
+  [625]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1K00600B1"
+    ["name"]=>
+    string(53) "سکه تمام بهارتحویلی 1روزه ملت"
+    ["symbol"]=>
+    string(14) "سکه0011پ02"
+    ["percent"]=>
+    float(-0.8637808726674)
+  }
+  [626]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SSOF0001"
+    ["name"]=>
+    string(29) "سیمان‌ صوفیان‌"
+    ["symbol"]=>
+    string(10) "سصوفی"
+    ["percent"]=>
+    float(0.23081350729087)
+  }
+  [627]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SKER0001"
+    ["name"]=>
+    string(27) "سیمان‌ کرمان‌"
+    ["symbol"]=>
+    string(10) "سکرما"
+    ["percent"]=>
+    float(0.32738930074133)
+  }
+  [628]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SDAB0001"
+    ["name"]=>
+    string(27) "سیمان‌ داراب‌"
+    ["symbol"]=>
+    string(10) "ساراب"
+    ["percent"]=>
+    float(0.33423518212335)
+  }
+  [629]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SHGN0001"
+    ["name"]=>
+    string(28) "سیمان‌هگمتان‌"
+    ["symbol"]=>
+    string(10) "سهگمت"
+    ["percent"]=>
+    float(0.17974058060531)
+  }
+  [630]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SEIL0001"
+    ["name"]=>
+    string(27) "سیمان‌ ایلام‌"
+    ["symbol"]=>
+    string(10) "سیلام"
+    ["percent"]=>
+    float(-0.02088772845953)
+  }
+  [631]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SDOR0001"
+    ["name"]=>
+    string(24) "سیمان‌ دورود"
+    ["symbol"]=>
+    string(8) "سدور"
+    ["percent"]=>
+    float(0.33946100303409)
+  }
+  [632]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SFNO0001"
+    ["name"]=>
+    string(24) "سیمان فارس نو"
+    ["symbol"]=>
+    string(10) "سفانو"
+    ["percent"]=>
+    float(0.1787693205016)
+  }
+  [633]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SURO0001"
+    ["name"]=>
+    string(28) "سیمان‌ارومیه‌"
+    ["symbol"]=>
+    string(10) "ساروم"
+    ["percent"]=>
+    float(0.31157290792051)
+  }
+  [634]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SEKP0001"
+    ["name"]=>
+    string(26) "سیمان مجد خواف"
+    ["symbol"]=>
+    string(10) "سخواف"
+    ["percent"]=>
+    float(0.4706498951782)
+  }
+  [635]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SSHR0001"
+    ["name"]=>
+    string(23) "سیمان‌ شرق‌"
+    ["symbol"]=>
+    string(8) "سشرق"
+    ["percent"]=>
+    float(0.20422415261455)
+  }
+  [636]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1K00499C1"
+    ["name"]=>
+    string(56) "سکه تمام بهارتحویل1روزه صادرات"
+    ["symbol"]=>
+    string(14) "سکه9912پ04"
+    ["percent"]=>
+    float(-0.86348599576655)
+  }
+  [637]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3GOMZ0001"
+    ["name"]=>
+    string(56) "سرمایه گذاری توسعه گوهران امید"
+    ["symbol"]=>
+    string(12) "گوهران"
+    ["percent"]=>
+    float(0.29007633587786)
+  }
+  [638]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7JMIP0001"
+    ["name"]=>
+    string(32) "سرمایه گذاری جامی"
+    ["symbol"]=>
+    string(10) "وجامی"
+    ["percent"]=>
+    float(-0.022297080526147)
+  }
+  [639]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BALI0001"
+    ["name"]=>
+    string(41) "سرمایه‌گذاری‌بوعلی‌"
+    ["symbol"]=>
+    string(12) "وبوعلی"
+    ["percent"]=>
+    float(0.21374045801527)
+  }
+  [640]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ANIZ0001"
+    ["name"]=>
+    string(39) "سرمایه گذاری آوا نوین"
+    ["symbol"]=>
+    string(8) "وآوا"
+    ["percent"]=>
+    float(-0.02938393608074)
+  }
+  [641]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ATDM0001"
+    ["name"]=>
+    string(54) "سرمایه‌ گذاری‌ آتیه‌ دماوند"
+    ["symbol"]=>
+    string(8) "واتی"
+    ["percent"]=>
+    float(0.51029487252609)
+  }
+  [642]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PAIP0001"
+    ["name"]=>
+    string(43) "سرمایه گذاری پارس آریان"
+    ["symbol"]=>
+    string(10) "آریان"
+    ["percent"]=>
+    float(0.75911836222449)
+  }
+  [643]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7TKDP0001"
+    ["name"]=>
+    string(10) "تکادو"
+    ["symbol"]=>
+    string(10) "وکادو"
+    ["percent"]=>
+    float(0.17270868966668)
+  }
+  [644]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR7ARNP0101"
+    ["name"]=>
+    string(43) "شرکت توسعه اقتصادی آرین"
+    ["symbol"]=>
+    string(12) "وآرینح"
+    ["percent"]=>
+    float(-0.15362731152205)
+  }
+  [645]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3PIVZ0001"
+    ["name"]=>
+    string(32) "سرمایه گذاری پویا"
+    ["symbol"]=>
+    string(10) "وپویا"
+    ["percent"]=>
+    float(0.11219512195122)
+  }
+  [646]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3IRNZ0001"
+    ["name"]=>
+    string(51) "گسترش سرمایه گذاری ایرانیان"
+    ["symbol"]=>
+    string(10) "وگستر"
+    ["percent"]=>
+    float(0.069771845119758)
+  }
+  [647]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1AYEG0001"
+    ["name"]=>
+    string(34) "سرمایه گذاری پردیس"
+    ["symbol"]=>
+    string(10) "پردیس"
+    ["percent"]=>
+    float(0.81807973048849)
+  }
+  [648]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1NIKI0001"
+    ["name"]=>
+    string(51) "سرمایه‌گذاری‌ ملی‌ایران‌"
+    ["symbol"]=>
+    string(10) "ونیکی"
+    ["percent"]=>
+    float(0.2702863454839)
+  }
+  [649]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1K00701C1"
+    ["name"]=>
+    string(56) "سکه تمام بهارتحویلی1روزه سامان"
+    ["symbol"]=>
+    string(14) "سکه0112پ03"
+    ["percent"]=>
+    float(-0.86306689655172)
+  }
+  [650]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3DBRZ0001"
+    ["name"]=>
+    string(48) "س. تدبیرگران فارس وخوزستان"
+    ["symbol"]=>
+    string(10) "سدبیر"
+    ["percent"]=>
+    float(0.27226303996665)
+  }
+  [651]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7FLTP0001"
+    ["name"]=>
+    string(56) "گروه صنایع معادن فلات ایرانیان"
+    ["symbol"]=>
+    string(8) "فلات"
+    ["percent"]=>
+    float(0.063980463980464)
+  }
+  [652]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7MIVP0001"
+    ["name"]=>
+    string(30) "سرمایه گذاری ملت"
+    ["symbol"]=>
+    string(8) "وملت"
+    ["percent"]=>
+    float(0.42741658066735)
+  }
+  [653]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SHOP0001"
+    ["name"]=>
+    string(41) "س. چشم انداز توسعه شمال"
+    ["symbol"]=>
+    string(10) "وشمال"
+    ["percent"]=>
+    float(0.13734939759036)
+  }
+  [654]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3ETLZ0001"
+    ["name"]=>
+    string(56) "شرکت سرمایه گذاری اعتلاء البرز"
+    ["symbol"]=>
+    string(10) "اعتلا"
+    ["percent"]=>
+    float(0.65683719654368)
+  }
+  [655]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7VIRP0001"
+    ["name"]=>
+    string(45) "سرمایه گذاری صنایع ایران"
+    ["symbol"]=>
+    string(10) "وایرا"
+    ["percent"]=>
+    float(0.071299009348402)
+  }
+  [656]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7IENP0001"
+    ["name"]=>
+    string(45) "سرمایه گذاری اقتصاد نوین"
+    ["symbol"]=>
+    string(10) "سنوین"
+    ["percent"]=>
+    float(0.20225232080353)
+  }
+  [657]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRK1K00500C1"
+    ["name"]=>
+    string(55) "سکه تمام بهارتحویلی 1روزه رفاه"
+    ["symbol"]=>
+    string(14) "سکه0012پ01"
+    ["percent"]=>
+    float(-0.86381826285072)
+  }
+  [658]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SEIP0001"
+    ["name"]=>
+    string(55) "س.کارکنان صنعت برق زنجان وقزوی"
+    ["symbol"]=>
+    string(8) "وبرق"
+    ["percent"]=>
+    float(0.65050689735158)
+  }
+  [659]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SAMA0001"
+    ["name"]=>
+    string(20) "صنعتی‌ آما"
+    ["symbol"]=>
+    string(8) "فاما"
+    ["percent"]=>
+    float(0.056926695191409)
+  }
+  [660]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7BIRP0001"
+    ["name"]=>
+    string(37) "بسته‌ بندی‌ ایران‌"
+    ["symbol"]=>
+    string(10) "فبیرا"
+    ["percent"]=>
+    float(0.07189424121695)
+  }
+  [661]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7TPOP0001"
+    ["name"]=>
+    string(32) "مهندسی مرآت پولاد"
+    ["symbol"]=>
+    string(10) "تپولا"
+    ["percent"]=>
+    float(0.3310461192351)
+  }
+  [662]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1RTIR0001"
+    ["name"]=>
+    string(62) "ریخته‌گری‌ تراکتورسازی‌ ایران‌"
+    ["symbol"]=>
+    string(10) "ختراک"
+    ["percent"]=>
+    float(0.10415899889584)
+  }
+  [663]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KRIR0001"
+    ["name"]=>
+    string(28) "ایرکا پارت صنعت"
+    ["symbol"]=>
+    string(8) "خکار"
+    ["percent"]=>
+    float(0.87361691664618)
+  }
+  [664]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7SDLP0001"
+    ["name"]=>
+    string(19) "سایپا دیزل"
+    ["symbol"]=>
+    string(10) "خکاوه"
+    ["percent"]=>
+    float(0.4033290653009)
+  }
+  [665]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1BHMN0001"
+    ["name"]=>
+    string(22) "گروه‌بهمن‌"
+    ["symbol"]=>
+    string(10) "خبهمن"
+    ["percent"]=>
+    float(0.59576078728236)
+  }
+  [666]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MHKM0001"
+    ["name"]=>
+    string(26) "مهرکام‌پارس‌"
+    ["symbol"]=>
+    string(8) "خمهر"
+    ["percent"]=>
+    float(0.22428991185113)
+  }
+  [667]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1RINM0001"
+    ["name"]=>
+    string(30) "رینگ‌سازی‌مشهد"
+    ["symbol"]=>
+    string(10) "خرینگ"
+    ["percent"]=>
+    float(-0.034086451714129)
+  }
+  [668]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1RENA0001"
+    ["name"]=>
+    string(51) "سرمایه‌گذاری‌ رنا(هلدینگ‌"
+    ["symbol"]=>
+    string(8) "ورنا"
+    ["percent"]=>
+    float(0.6319405338439)
+  }
+  [669]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ZMYD0001"
+    ["name"]=>
+    string(12) "زامیاد"
+    ["symbol"]=>
+    string(12) "خزامیا"
+    ["percent"]=>
+    float(1.0907632795547)
+  }
+  [670]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1RADI0001"
+    ["name"]=>
+    string(30) "رادیاتور ایران‌"
+    ["symbol"]=>
+    string(8) "ختور"
+    ["percent"]=>
+    float(0.14641254936288)
+  }
+  [671]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1LENT0001"
+    ["name"]=>
+    string(31) "لنت‌ ترمزایران‌"
+    ["symbol"]=>
+    string(8) "خلنت"
+    ["percent"]=>
+    float(0.19879850150187)
+  }
+  [672]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR1RIIR0101"
+    ["name"]=>
+    string(48) "صنایع‌ریخته‌گری‌ایران‌"
+    ["symbol"]=>
+    string(12) "خریختح"
+    ["percent"]=>
+    float(0.22884615384615)
+  }
+  [673]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7ESHP0001"
+    ["name"]=>
+    string(48) "صنایع تولیدی اشتاد ایران‌"
+    ["symbol"]=>
+    string(10) "تشتاد"
+    ["percent"]=>
+    float(-0.051568349038337)
+  }
+  [674]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRR7ESHP0101"
+    ["name"]=>
+    string(48) "صنایع تولیدی اشتاد ایران‌"
+    ["symbol"]=>
+    string(12) "تشتادح"
+    ["percent"]=>
+    float(0.023499461470675)
+  }
+  [675]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7RFNZ0001"
+    ["name"]=>
+    string(44) "مهندسی صنعتی روان فن آور"
+    ["symbol"]=>
+    string(12) "خفناور"
+    ["percent"]=>
+    float(0.14511104411617)
+  }
+  [676]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1TMKH0001"
+    ["name"]=>
+    string(28) "تولیدمحورخودرو"
+    ["symbol"]=>
+    string(10) "خمحور"
+    ["percent"]=>
+    float(0.3963613195526)
+  }
+  [677]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SZPO0001"
+    ["name"]=>
+    string(23) "سازه‌ پویش‌"
+    ["symbol"]=>
+    string(10) "خپویش"
+    ["percent"]=>
+    float(0.20894567538588)
+  }
+  [678]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7TONP0001"
+    ["name"]=>
+    string(50) "توسعه و عمران شهرستان نائین"
+    ["symbol"]=>
+    string(10) "خعمرا"
+    ["percent"]=>
+    float(0.0067388506095253)
+  }
+  [679]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4661"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7053"
+    ["percent"]=>
+    float(1.5384615384615)
+  }
+  [680]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4701"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7057"
+    ["percent"]=>
+    float(2.2178217821782)
+  }
+  [681]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4621"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7049"
+    ["percent"]=>
+    float(2.6)
+  }
+  [682]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KFAN0001"
+    ["name"]=>
+    string(25) "فنرسازی‌خاور"
+    ["symbol"]=>
+    string(8) "خفنر"
+    ["percent"]=>
+    float(0.18729453955514)
+  }
+  [683]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PKOD0001"
+    ["name"]=>
+    string(22) "پارس‌ خودرو"
+    ["symbol"]=>
+    string(10) "خپارس"
+    ["percent"]=>
+    float(1.0011443284223)
+  }
+  [684]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4681"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7055"
+    ["percent"]=>
+    float(0.92307692307692)
+  }
+  [685]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7KKHP0001"
+    ["name"]=>
+    string(45) "گروه اقتصادی کرمان خودرو"
+    ["symbol"]=>
+    string(12) "خکرمان"
+    ["percent"]=>
+    float(0.22174473571122)
+  }
+  [686]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7KHEP0001"
+    ["name"]=>
+    string(35) "خدمات فنی فولاد یزد"
+    ["symbol"]=>
+    string(10) "خفولا"
+    ["percent"]=>
+    float(0.07434519527779)
+  }
+  [687]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9MAPN4011"
+    ["name"]=>
+    string(37) "گروه مپنا (سهامی عام)"
+    ["symbol"]=>
+    string(12) "ضپنا7037"
+    ["percent"]=>
+    float(2.697125)
+  }
+  [688]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9MAPN4031"
+    ["name"]=>
+    string(37) "گروه مپنا (سهامی عام)"
+    ["symbol"]=>
+    string(12) "ضپنا7039"
+    ["percent"]=>
+    float(1.0048533445875)
+  }
+  [689]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9MAPN4021"
+    ["name"]=>
+    string(37) "گروه مپنا (سهامی عام)"
+    ["symbol"]=>
+    string(12) "ضپنا7038"
+    ["percent"]=>
+    float(0.56985714285714)
+  }
+  [690]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9MAPN0991"
+    ["name"]=>
+    string(37) "گروه مپنا (سهامی عام)"
+    ["symbol"]=>
+    string(12) "ضپنا7036"
+    ["percent"]=>
+    float(2.0909990108803)
+  }
+  [691]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9MAPN4041"
+    ["name"]=>
+    string(37) "گروه مپنا (سهامی عام)"
+    ["symbol"]=>
+    string(12) "ضپنا7040"
+    ["percent"]=>
+    int(2)
+  }
+  [692]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1OFOG0001"
+    ["name"]=>
+    string(56) "فروشگاههای زنجیره ای افق کوروش"
+    ["symbol"]=>
+    string(6) "افق"
+    ["percent"]=>
+    float(0.21471713710484)
+  }
+  [693]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3GASZ0001"
+    ["name"]=>
+    string(19) "قاسم ایران"
+    ["symbol"]=>
+    string(8) "قاسم"
+    ["percent"]=>
+    float(0.17247063671955)
+  }
+  [694]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GHAT0001"
+    ["name"]=>
+    string(45) "قطعات‌ اتومبیل‌ ایران‌"
+    ["symbol"]=>
+    string(10) "ختوقا"
+    ["percent"]=>
+    float(0.95991561181435)
+  }
+  [695]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GOST0001"
+    ["name"]=>
+    string(64) "گسترش‌سرمایه‌گذاری‌ایران‌خودرو"
+    ["symbol"]=>
+    string(10) "خگستر"
+    ["percent"]=>
+    float(0.94146341463415)
+  }
+  [696]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ATIR0001"
+    ["name"]=>
+    string(55) "آهنگری‌ تراکتورسازی‌ ایران‌"
+    ["symbol"]=>
+    string(8) "خاهن"
+    ["percent"]=>
+    float(1.0109275622145)
+  }
+  [697]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SIPA0001"
+    ["name"]=>
+    string(10) "سایپا"
+    ["symbol"]=>
+    string(10) "خساپا"
+    ["percent"]=>
+    float(1.1790341578327)
+  }
+  [698]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1IKCO0001"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(10) "خودرو"
+    ["percent"]=>
+    float(1.7753303964758)
+  }
+  [699]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1AZIN0001"
+    ["name"]=>
+    string(21) "سایپاآذین‌"
+    ["symbol"]=>
+    string(10) "خاذین"
+    ["percent"]=>
+    float(0.30114942528736)
+  }
+  [700]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KHSH0001"
+    ["name"]=>
+    string(38) "الکتریک‌ خودرو شرق‌"
+    ["symbol"]=>
+    string(8) "خشرق"
+    ["percent"]=>
+    float(0.13766233766234)
+  }
+  [701]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1CHAR0001"
+    ["name"]=>
+    string(12) "چرخشگر"
+    ["symbol"]=>
+    string(10) "خچرخش"
+    ["percent"]=>
+    float(0.23776223776224)
+  }
+  [702]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1RIIR0001"
+    ["name"]=>
+    string(48) "صنایع‌ریخته‌گری‌ایران‌"
+    ["symbol"]=>
+    string(10) "خریخت"
+    ["percent"]=>
+    float(0.23317683881064)
+  }
+  [703]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1FNAR0001"
+    ["name"]=>
+    string(21) "فنرسازی‌زر"
+    ["symbol"]=>
+    string(6) "خزر"
+    ["percent"]=>
+    float(0.088261182683844)
+  }
+  [704]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MSTI0001"
+    ["name"]=>
+    string(61) "موتورسازان‌تراکتورسازی‌ایران‌"
+    ["symbol"]=>
+    string(12) "خموتور"
+    ["percent"]=>
+    float(0.20461538461538)
+  }
+  [705]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7IKDP0001"
+    ["name"]=>
+    string(30) "ایران خودرو دیزل"
+    ["symbol"]=>
+    string(8) "خاور"
+    ["percent"]=>
+    float(0.6479458041958)
+  }
+  [706]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4611"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7048"
+    ["percent"]=>
+    float(3.3373493975904)
+  }
+  [707]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4691"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7056"
+    ["percent"]=>
+    float(1.8)
+  }
+  [708]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1AZAB0001"
+    ["name"]=>
+    string(27) "صنایع‌ آذرآب‌"
+    ["symbol"]=>
+    string(8) "فاذر"
+    ["percent"]=>
+    float(0.071794871794872)
+  }
+  [709]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3SAAZ0001"
+    ["name"]=>
+    string(35) "کشت وصنعت شریف آباد"
+    ["symbol"]=>
+    string(10) "زشریف"
+    ["percent"]=>
+    float(-0.0030827067669173)
+  }
+  [710]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PRKT0001"
+    ["name"]=>
+    string(24) "به پرداخت ملت"
+    ["symbol"]=>
+    string(12) "پرداخت"
+    ["percent"]=>
+    float(0.171875)
+  }
+  [711]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3AFRZ0001"
+    ["name"]=>
+    string(12) "افرانت"
+    ["symbol"]=>
+    string(8) "افرا"
+    ["percent"]=>
+    float(0.35249122807018)
+  }
+  [712]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7FANP0001"
+    ["name"]=>
+    string(20) "گروه فن آوا"
+    ["symbol"]=>
+    string(11) "فن آوا"
+    ["percent"]=>
+    float(0.37052208835341)
+  }
+  [713]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1KOSR0001"
+    ["name"]=>
+    string(47) "سرمایه گذاری کشاورزی کوثر"
+    ["symbol"]=>
+    string(10) "زکوثر"
+    ["percent"]=>
+    float(0.27681215783648)
+  }
+  [714]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SMRG0001"
+    ["name"]=>
+    string(10) "سیمرغ"
+    ["symbol"]=>
+    string(10) "سیمرغ"
+    ["percent"]=>
+    float(0.066521603978862)
+  }
+  [715]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3TLIZ0001"
+    ["name"]=>
+    string(36) "دامداری تلیسه نمونه"
+    ["symbol"]=>
+    string(10) "تلیسه"
+    ["percent"]=>
+    float(0.16933284187247)
+  }
+  [716]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MAGS0001"
+    ["name"]=>
+    string(51) "کشاورزی‌ ودامپروی‌ مگسال‌"
+    ["symbol"]=>
+    string(10) "زمگسا"
+    ["percent"]=>
+    float(0.10282168710297)
+  }
+  [717]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3GAHZ0001"
+    ["name"]=>
+    string(38) "کشت و دام قیام اصفهان"
+    ["symbol"]=>
+    string(10) "زقیام"
+    ["percent"]=>
+    float(0.39014550816571)
+  }
+  [718]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3BAHZ0001"
+    ["name"]=>
+    string(49) "کشاورزی و دامپروری بینالود"
+    ["symbol"]=>
+    string(10) "زبینا"
+    ["percent"]=>
+    float(0.2985185842278)
+  }
+  [719]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3MACZ0001"
+    ["name"]=>
+    string(48) "مجتمع تولید گوشت مرغ ماهان"
+    ["symbol"]=>
+    string(12) "زماهان"
+    ["percent"]=>
+    float(0.20800341782968)
+  }
+  [720]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9SIPA0161"
+    ["name"]=>
+    string(10) "سایپا"
+    ["symbol"]=>
+    string(12) "ضسپا8015"
+    ["percent"]=>
+    float(0.5)
+  }
+  [721]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3GDSZ0001"
+    ["name"]=>
+    string(51) "کشت و دام گلدشت نمونه اصفهان"
+    ["symbol"]=>
+    string(12) "زگلدشت"
+    ["percent"]=>
+    float(0.00092696579139704)
+  }
+  [722]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3FAAZ0001"
+    ["name"]=>
+    string(31) "کشت و دامداری فکا"
+    ["symbol"]=>
+    string(8) "زفکا"
+    ["percent"]=>
+    float(0.076461481989818)
+  }
+  [723]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3DKHZ0001"
+    ["name"]=>
+    string(39) "کشت و صنعت دشت خرم دره"
+    ["symbol"]=>
+    string(8) "زدشت"
+    ["percent"]=>
+    float(0.21933644966366)
+  }
+  [724]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1ZPRS0001"
+    ["name"]=>
+    string(54) "ملی کشت و صنعت و دامپروری پارس"
+    ["symbol"]=>
+    string(10) "زپارس"
+    ["percent"]=>
+    float(0.45022377185679)
+  }
+  [725]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3IKAZ0001"
+    ["name"]=>
+    string(49) "کشاورزی مکانیزه اصفهان کشت"
+    ["symbol"]=>
+    string(8) "زکشت"
+    ["percent"]=>
+    float(0.18370012091898)
+  }
+  [726]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7KMOP0001"
+    ["name"]=>
+    string(53) "کارخانجات‌مخابراتی‌ایران‌"
+    ["symbol"]=>
+    string(8) "لکما"
+    ["percent"]=>
+    float(0.20756967790912)
+  }
+  [727]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1PELC0001"
+    ["name"]=>
+    string(29) "پارس‌ الکتریک‌"
+    ["symbol"]=>
+    string(10) "لپارس"
+    ["percent"]=>
+    float(1.0976448952957)
+  }
+  [728]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7PYAP0001"
+    ["name"]=>
+    string(30) "گسترش صنایع پیام"
+    ["symbol"]=>
+    string(10) "لپیام"
+    ["percent"]=>
+    float(0.014985449699475)
+  }
+  [729]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1MARK0001"
+    ["name"]=>
+    string(37) "ماشین‌ سازی‌ اراک‌"
+    ["symbol"]=>
+    string(10) "فاراک"
+    ["percent"]=>
+    float(0.13160155991804)
+  }
+  [730]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3KARZ0001"
+    ["name"]=>
+    string(53) "توسعه فناوری اطلاعات خوارزمی"
+    ["symbol"]=>
+    string(10) "مفاخر"
+    ["percent"]=>
+    float(-0.078138718173837)
+  }
+  [731]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1DADE0001"
+    ["name"]=>
+    string(39) "داده‌پردازی‌ایران‌"
+    ["symbol"]=>
+    string(12) "مداران"
+    ["percent"]=>
+    float(0.49207645392605)
+  }
+  [732]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO3KPEZ0001"
+    ["name"]=>
+    string(51) "تجارت الکترونیک پارسیان کیش"
+    ["symbol"]=>
+    string(12) "تاپکیش"
+    ["percent"]=>
+    float(0.037157379255924)
+  }
+  [733]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9SIPA0081"
+    ["name"]=>
+    string(10) "سایپا"
+    ["symbol"]=>
+    string(12) "ضسپا8007"
+    ["percent"]=>
+    float(0.35762772418721)
+  }
+  [734]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4671"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7054"
+    ["percent"]=>
+    float(0.51610865445357)
+  }
+  [735]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9SIPA0211"
+    ["name"]=>
+    string(10) "سایپا"
+    ["symbol"]=>
+    string(12) "ضسپا8020"
+    ["percent"]=>
+    float(8.5238095238095)
+  }
+  [736]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4521"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7039"
+    ["percent"]=>
+    float(2.9583333333333)
+  }
+  [737]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4711"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7058"
+    ["percent"]=>
+    float(0.26353790613718)
+  }
+  [738]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9SIPA0231"
+    ["name"]=>
+    string(10) "سایپا"
+    ["symbol"]=>
+    string(12) "ضسپا8022"
+    ["percent"]=>
+    float(1.3333333333333)
+  }
+  [739]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9SIPA0171"
+    ["name"]=>
+    string(10) "سایپا"
+    ["symbol"]=>
+    string(12) "ضسپا8016"
+    ["percent"]=>
+    int(2)
+  }
+  [740]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9PKOD2521"
+    ["name"]=>
+    string(22) "پارس‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضپار8019"
+    ["percent"]=>
+    float(1.7291666666667)
+  }
+  [741]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4641"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7051"
+    ["percent"]=>
+    int(1)
+  }
+  [742]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9SIPA0191"
+    ["name"]=>
+    string(10) "سایپا"
+    ["symbol"]=>
+    string(12) "ضسپا8018"
+    ["percent"]=>
+    float(1.9387755102041)
+  }
+  [743]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4531"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7040"
+    ["percent"]=>
+    float(3.2997002997003)
+  }
+  [744]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SYSM0001"
+    ["name"]=>
+    string(25) "همکاران سیستم"
+    ["symbol"]=>
+    string(10) "سیستم"
+    ["percent"]=>
+    float(0.80589112219195)
+  }
+  [745]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4541"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7041"
+    ["percent"]=>
+    float(0.82136363636364)
+  }
+  [746]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO9IKCO4751"
+    ["name"]=>
+    string(24) "ایران‌ خودرو"
+    ["symbol"]=>
+    string(12) "ضخود7062"
+    ["percent"]=>
+    float(0.26)
+  }
+  [747]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1GMEL0001"
+    ["name"]=>
+    string(52) "گروه‌ صنعتی‌ ملی‌ (هلدینگ‌"
+    ["symbol"]=>
+    string(8) "وملی"
+    ["percent"]=>
+    float(0.96246932350584)
+  }
+  [748]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1EPRS0001"
+    ["name"]=>
+    string(44) "تجارت الکترونیک پارسیان"
+    ["symbol"]=>
+    string(8) "رتاپ"
+    ["percent"]=>
+    float(0.28759204459432)
+  }
+  [749]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1APPE0001"
+    ["name"]=>
+    string(32) "آسان پرداخت پرشین"
+    ["symbol"]=>
+    string(4) "آپ"
+    ["percent"]=>
+    float(0.19857100327478)
+  }
+  [750]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1SEPK0001"
+    ["name"]=>
+    string(49) "پرداخت الکترونیک سامان کیش"
+    ["symbol"]=>
+    string(4) "سپ"
+    ["percent"]=>
+    float(0.2125)
+  }
+  [751]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1INFO0001"
+    ["name"]=>
+    string(36) "خدمات‌انفورماتیک‌"
+    ["symbol"]=>
+    string(12) "رانفور"
+    ["percent"]=>
+    float(0.38157543391188)
+  }
+  [752]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1RKSH0001"
+    ["name"]=>
+    string(41) "کارت اعتباری ایران کیش"
+    ["symbol"]=>
+    string(8) "رکیش"
+    ["percent"]=>
+    float(0.33533473431402)
+  }
+  [753]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO1IAGM0001"
+    ["name"]=>
+    string(26) "ایران‌ارقام‌"
+    ["symbol"]=>
+    string(10) "مرقام"
+    ["percent"]=>
+    float(0.88171428571429)
+  }
+  [754]=>
+  array(4) {
+    ["isin"]=>
+    string(12) "IRO7BEGP0001"
+    ["name"]=>
+    string(38) "تولیدی گرانیت بهسرام"
+    ["symbol"]=>
+    string(10) "کهرام"
+    ["percent"]=>
+    float(0.19432130426818)
+  }
+  [755]=>
+  array(3) {
+    ["isin"]=>
+    string(12) "IRR7SRJP0101"
+    ["name"]=>
+    string(41) "بین المللی ساروج بوشهر"
+    ["symbol"]=>
+    string(12) "ساروجح"
+  }
+}
