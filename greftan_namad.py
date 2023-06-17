@@ -20,6 +20,6 @@ for i in range (len(list_symbole)):
         j = json.loads(r.text)
         if j:    
             if j['symbol']:
-                dict_symbole[list_symbole[i]] = j['symbol']
+                dict_symbole[j['symbol']] = list_symbole[i]
 with open("list_namad.json", "w") as file:
     json.dump(dict_symbole, file)
