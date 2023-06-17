@@ -18,9 +18,8 @@ for i in range (len(list_symbole)):
     r = requests.get(url , headers = header)
     if r.status_code == 200:
         j = json.loads(r.text)
-        
-        if j['symbol']:
-
-            dict_symbole[list_symbole[i]] = j['symbol']
+        if j:    
+            if j['symbol']:
+                dict_symbole[list_symbole[i]] = j['symbol']
 with open("list_namad.json", "w") as file:
     json.dump(dict_symbole, file)
