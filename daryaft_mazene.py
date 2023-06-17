@@ -1,12 +1,14 @@
 import requests
 import json
 import os
+from datetime import datetime
 
 import numpy as np
 import pandas as pd
-from functions import send_to_bale , search , MarketSheet_to_sarane
-
-
+from functions import send_to_bale , search , MarketSheet_to_sarane , send_file_to_bale
+bale_chat_id = 5182063095
+if not os.path.exists("sarane_ha"):
+    os.makedirs("sarane_ha")
 header = """GET /ms/api/MarketSheet/all/IRO3KHZZ0001 HTTP/1.1
 Host: api-mts.orbis.easytrader.ir
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0
@@ -31,10 +33,19 @@ url_api = "https://api-mts.orbis.easytrader.ir/ms/api/MarketSheet/all/"
 f = open("symbol.csv" , "r")
 list_symbole = f.read().split("\n")
 s = ""
+df_list = []
+now = datetime.now()
 for i in range(len(list_symbole)):
     url = url_api+list_symbole[i]
     r = requests.get(url , headers = header)
     if r.status_code == 200:
         sarane_kharid , sarane_foroosh = MarketSheet_to_sarane(r)
-        s = list_symbole[i] + '\t سرانه خرید:\n'+str(sarane_kharid)+'\n'+'سرانه فروش:\n'+ str(sarane_foroosh)+"\n*-*-*-*-*-*-*-*-\n"
-send_to_bale(s , bale_chat_id=5182063095)
+        s += list_symbole[i] + '\t سرانه خرید:\n'+str(sarane_kharid)+'\n'+'سرانه فروش:\n'+ str(sarane_foroosh)+"\n*-*-*-*-*-*-*-*-\n"
+        df_dict = {"code_namad":list_symbole[i] , "sarane_kharid":sarane_kharid , "sarane_foroosh":sarane_foroosh}
+        df_list.append(df_dict)
+send_to_bale(s , bale_chat_id=bale_chat_id)
+df = pd.DataFrame(df_list)
+df["kharid_bar_foroosh"] = df["sarane_kharid"]/df["sarane_foroosh"]
+timestamp = now.strftime("%Y-%m-%d %H:%M:%S.%f")
+df.to_csv("sarane_ha/sarane_"+timestamp+".csv")
+send_file_to_bale("sarane_ha/sarane_"+timestamp+".csv", bale_chat_id)

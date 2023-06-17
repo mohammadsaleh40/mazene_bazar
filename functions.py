@@ -6,18 +6,30 @@ import time
 from security import bale_token , bale_chat_id
 
 
+def send_file_to_bale(path , bale_chat_id): 
+    with open(path, 'rb') as file:
+        url = f'https://tapi.bale.ai/bot{bale_token}/sendDocument'
+        files = {'document': file}
+        data = {'chat_id': bale_chat_id}
+        response = requests.post(url, files=files, data=data)
+    return response.text
+
 def MarketSheet_to_sarane(response):
     j = json.loads(response.text)
-    buy_df = pd.DataFrame(j["buySheets"])
-    buy_df["value"] = buy_df["volume"]*buy_df["amount"] 
-    buy_df
-    sarane_kharid = buy_df["value"].sum() / buy_df["amount"].sum()
-    sarane_kharid
-    sell_df = pd.DataFrame(j["sellSheets"])
-    sell_df["value"] = sell_df["volume"]*sell_df["amount"] 
-    sell_df
-    sarane_foroosh = sell_df["value"].sum() / sell_df["amount"].sum()
-    sarane_foroosh
+    if j["buySheets"] != []:
+        buy_df = pd.DataFrame(j["buySheets"])
+        buy_df["value"] = buy_df["volume"]*buy_df["amount"] 
+        #buy_df
+        sarane_kharid = buy_df["value"].sum() / buy_df["amount"].sum()
+    else:
+        sarane_kharid = -1
+    if j["sellSheets"] != []:    
+        sell_df = pd.DataFrame(j["sellSheets"])
+        sell_df["value"] = sell_df["volume"]*sell_df["amount"] 
+        #sell_df
+        sarane_foroosh = sell_df["value"].sum() / sell_df["amount"].sum()
+    else:
+        sarane_foroosh = -1
     return sarane_kharid , sarane_foroosh
 
 def add_bearer(bearer):
