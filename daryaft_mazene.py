@@ -48,6 +48,8 @@ def daryaft_sarane_ha(text , id):
             matn = True
         else:
             matn = False
+    else:
+        matn = True
     if "فایل:" in text:
         file = search(text, 'فایل:', '\n')
         
@@ -56,17 +58,21 @@ def daryaft_sarane_ha(text , id):
             file = False
         else:
             file = True
+    else:
+        file = True
     if "زمان:" in text:
         ti = search(text, "زمان:", '\n')
         try:
             time = convert_to_datetime(ti)
         except Exception as e:
             send_to_bale(f"تبدیل تاریخ زمان و تاریخ موفق نبود.\n {str(e)}" , bale_chat_id=bale_chat_id)
+    else:
+        time = datetime.now()
     for word in l:
         if word in list_symbole:
             list_namad.append(word)
     try:
         if list_namad != []:
-            ersal_sarane(matn = True , file = True ,list_namad=list_namad, time = datetime.now(), id = id)
+            ersal_sarane(matn = matn , file = file ,list_namad=list_namad, time = time, id = id)
     except Exception as e:
         send_to_bale(f"درخواست\n{text}\nانجام نشد.\n" +str(e), bale_chat_id= bale_chat_id)
