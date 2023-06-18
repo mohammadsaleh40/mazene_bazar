@@ -34,14 +34,14 @@ def MarketSheet_to_sarane(response):
     j = json.loads(response.text)
     if j["buySheets"] != []:
         buy_df = pd.DataFrame(j["buySheets"])
-        buy_df["value"] = buy_df["volume"]*buy_df["amount"] 
+        buy_df["value"] = buy_df["volume"]*buy_df["price"] 
         #buy_df
         sarane_kharid = buy_df["value"].sum() / buy_df["amount"].sum()
     else:
         sarane_kharid = -1
     if j["sellSheets"] != []:    
         sell_df = pd.DataFrame(j["sellSheets"])
-        sell_df["value"] = sell_df["volume"]*sell_df["amount"] 
+        sell_df["value"] = sell_df["volume"]*sell_df["price"] 
         #sell_df
         sarane_foroosh = sell_df["value"].sum() / sell_df["amount"].sum()
     else:
