@@ -2,6 +2,7 @@ import requests
 from security import bale_token
 from daryaft_mazene import daryaft_sarane_ha
 bale_chat_id = 5182063095
+
 def main():
     
    
@@ -10,7 +11,7 @@ def main():
     offset = 0  # آفست پیام‌ها
     while True:
         # آدرس API تلگرام برای دریافت بروزرسانی‌ها
-        get_updates_url = f'https://api.telegram.org/bot{bale_token}/getUpdates?offset={offset}'
+        get_updates_url = f'https://tapi.bale.ai/bot{bale_token}/getUpdates?offset={offset}'
 
         # درخواست GET برای دریافت بروزرسانی‌ها
         response = requests.get(get_updates_url)
