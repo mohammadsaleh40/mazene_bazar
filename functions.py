@@ -4,7 +4,23 @@ import pandas as pd
 import numpy
 import time
 from security import bale_token , bale_chat_id
+from datetime import datetime, timedelta
 
+
+
+def convert_to_datetime(time_str):
+    if len(time_str) == 8:  # فرمت hh:mm:ss
+        time_str = datetime.now().strftime("%Y-%m-%d ") + time_str
+    elif len(time_str) < 19:  # فرمت hh:mm:ss.x
+        time_str = datetime.now().strftime("%Y-%m-%d ") + time_str
+        
+        # تکمیل اعشار به 8 رقم
+        decimal_length = len(time_str) - time_str.rindex('.') - 1
+        if decimal_length < 6:
+            time_str += '0' * (6 - decimal_length)
+    
+    print(time_str)
+    return datetime.strptime(time_str, "%Y-%m-%d %H:%M:%S.%f")
 
 def send_file_to_bale(path , bale_chat_id): 
     with open(path, 'rb') as file:

@@ -1,8 +1,10 @@
 security.py
 demofile.html
 app.log
-__pycache__/security.cpython-310.pyc
-__pycache__/functions.cpython-310.pyc
+nohup.out
+output.txt
+/__pycache__
 geckodriver.log
 server.log
 /sarane_ha
+/pickle_ha/

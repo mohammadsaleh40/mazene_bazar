@@ -1,17 +1,20 @@
 import requests
 import json
 import os
+import time
 from datetime import datetime
-
+import pickle
 import numpy as np
 import pandas as pd
-from functions import send_to_bale , search , MarketSheet_to_sarane , send_file_to_bale
+from functions import send_to_bale , search , MarketSheet_to_sarane , send_file_to_bale , convert_to_datetime
 bale_chat_id = 5182063095
 file = open('list_namad.json' , 'r')
 list_symbole = json.load(file)
 file.close()
 if not os.path.exists("sarane_ha"):
     os.makedirs("sarane_ha")
+if not os.path.exists("pickle_ha"):
+    os.makedirs("pickle_ha")
 header = """POST /symbols/api/MarketData/symbol-info-data HTTP/1.1
 Host: api-mts.orbis.easytrader.ir
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0
@@ -29,38 +32,14 @@ Authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3MmYyMjczZTE4YTQ0YjQ5OTFmMD
 Connection: keep-alive"""
 
 bearer = search(header , "Authorization:" , "\n")
-def ersal_sarane(bearer = bearer ,bale_chat_id = bale_chat_id , matn = False , file = True , list_namad = []):
-    header = {"User-Agent":"Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0",
-    "Authorization":bearer}
-
-    url_api = "https://api-mts.orbis.easytrader.ir/ms/api/MarketSheet/all/"
-
-    #f = open("symbol.csv" , "r")
-    #list_symbole = f.read().split("\n")
-    s = ""
-    df_list = []
-    now = datetime.now()
-    for x in list_namad:
-        
-        url = url_api+list_symbole[x]
-        r = requests.get(url , headers = header)
-        if r.status_code == 200:
-            sarane_kharid , sarane_foroosh = MarketSheet_to_sarane(r)
-            s += x + '\t سرانه خرید:\n'+str(sarane_kharid)+'\n'+'سرانه فروش:\n'+ str(sarane_foroosh)+"\n*-*-*-*-*-*-*-*-\n"
-            df_dict = {"code_namad":list_symbole[x] , "namad" : x , "sarane_kharid":sarane_kharid , "sarane_foroosh":sarane_foroosh}
-            df_list.append(df_dict)
-        else:
-            send_to_bale(str(r.status_code) + r.text+"\nهمچین خطایی داده." , bale_chat_id=bale_chat_id)
-    if matn:
-        send_to_bale(s , bale_chat_id=bale_chat_id)
-    df = pd.DataFrame(df_list)
-    df["kharid_bar_foroosh"] = df["sarane_kharid"]/df["sarane_foroosh"]
-    timestamp = now.strftime("%Y-%m-%d %H:%M:%S.%f")
-    df.to_csv("sarane_ha/sarane_"+timestamp+".csv")
-    if file:
-        send_file_to_bale("sarane_ha/sarane_"+timestamp+".csv", bale_chat_id)
-
-def daryaft_sarane_ha(text):
+def ersal_sarane(id , bearer = bearer ,bale_chat_id = bale_chat_id , matn = False , file = True , list_namad = [], time = datetime.now()):
+    specify_string = str(id)
+    my_tuple = (id , bearer , bale_chat_id , matn , file , list_namad , time )
+    with open(f'pickle_ha/{specify_string}.pkl', 'wb') as f:
+        pickle.dump(my_tuple, f)
+    os.system(f"nohup python3 es.py {specify_string} &> output.txt 2>&1 &")
+    print(f"nohup python3 es.py {specify_string} &> output.txt 2>&1 &")
+def daryaft_sarane_ha(text , id):
     list_namad = []
     l = text.split('\n')
     if 'متن:' in text:
@@ -71,6 +50,7 @@ def daryaft_sarane_ha(text):
             matn = True
         else:
             matn = False
+    if "فایل:" in text:
         file = search(text, 'فایل:', '\n')
         
         if file in ['0','۰','no','false','False','FALSE','NO','نه','نباشه']:
@@ -78,10 +58,16 @@ def daryaft_sarane_ha(text):
             file = False
         else:
             file = True
+    if "زمان:" in text:
+        ti = search(text, "زمان:", '\n')
+        try:
+            time = convert_to_datetime(ti)
+        except Exception as e:
+            send_to_bale(f"تبدیل تاریخ زمان و تاریخ موفق نبود.\n {str(e)}" , bale_chat_id=bale_chat_id)
     for word in l:
         if word in list_symbole:
             list_namad.append(word)
     #try:
-    ersal_sarane(matn = matn , file = file ,list_namad=list_namad)
+    ersal_sarane(matn = matn , file = file ,list_namad=list_namad, time = time, id = id)
     #except Exception as e:
     #    send_to_bale(f"درخواست\n{text}\nانجام نشد.\n" +str(e), bale_chat_id= bale_chat_id)

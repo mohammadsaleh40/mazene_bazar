@@ -26,7 +26,7 @@ def main():
                         chat_id = result['message']['chat']['id']
                         # بررسی درخواست کاربر
                         if '/sarane' in text and chat_id == bale_chat_id:
-                            daryaft_sarane_ha(text)
+                            daryaft_sarane_ha(text , result['message']['date'])
                     offset = result['update_id'] + 1
         else:
             # پردازش خطا
