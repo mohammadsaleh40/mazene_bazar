@@ -30,7 +30,9 @@ def send_sarane(bearer  ,bale_chat_id , matn , file , list_namad):
         r = requests.get(url , headers = header)
         if r.status_code == 200:
             sarane_kharid , sarane_foroosh = MarketSheet_to_sarane(r)
-            s += x + '\t سرانه خرید:\n'+str(sarane_kharid)+'\n'+'سرانه فروش:\n'+ str(sarane_foroosh)+"\n*-*-*-*-*-*-*-*-\n"
+            kharid_be_milion = set(round(sarane_kharid, -6)/1000000) + ' میلیون'
+            foroosh_be_milion = set(round(sarane_foroosh, -6)/1000000) + ' میلیون'
+            s += x + '\t سرانه خرید:\n'+kharid_be_milion+'\n'+'سرانه فروش:\n'+ foroosh_be_milion+"\n*-*-*-*-*-*-*-*-\n"
             df_dict = {"code_namad":list_symbole[x] , "namad" : x , "sarane_kharid":sarane_kharid , "sarane_foroosh":sarane_foroosh}
             df_list.append(df_dict)
         else:
