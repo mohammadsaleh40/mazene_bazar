@@ -10,6 +10,7 @@ def main():
     # شنیدن پاسخ کاربر با استفاده از Long Polling
     offset = 0  # آفست پیام‌ها
     while True:
+        
         # آدرس API تلگرام برای دریافت بروزرسانی‌ها
         get_updates_url = f'https://tapi.bale.ai/bot{bale_token}/getUpdates?offset={offset}'
 
@@ -27,6 +28,7 @@ def main():
                         # بررسی درخواست کاربر
                         if '/sarane' in text and chat_id == bale_chat_id:
                             daryaft_sarane_ha(text , result['message']['date'])
+                            print("salam")
                     offset = result['update_id'] + 1
         else:
             # پردازش خطا
