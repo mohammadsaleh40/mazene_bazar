@@ -66,6 +66,9 @@ def daryaft_sarane_ha(text , id):
         if word in list_symbole:
             list_namad.append(word)
     #try:
-    ersal_sarane(matn = matn , file = file ,list_namad=list_namad, time = time, id = id)
+    try:
+        ersal_sarane(matn = matn , file = file ,list_namad=list_namad, time = datetime.now(), id = id)
+    except Exception as e:
+        send_to_bale(str(e)+"\n این خطا رو داد.",bale_chat_id)
     #except Exception as e:
     #    send_to_bale(f"درخواست\n{text}\nانجام نشد.\n" +str(e), bale_chat_id= bale_chat_id)
